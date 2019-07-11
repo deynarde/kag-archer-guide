@@ -1,8 +1,8 @@
-# Builder Guides
+# Archer Guides
 
-[![Build Status](https://api.travis-ci.org/deynarde/kag-builder-guide.svg)](https://travis-ci.org/deynarde/kag-builder-guide)
+[![Build Status](https://api.travis-ci.org/deynarde/kag-archer-guide.svg)](https://travis-ci.org/deynarde/kag-archer-guide)
 
-A KAG builder guide for both new and experienced players.
+A KAG archer guide for both new and experienced players.
 
-https://deynarde.github.io/kag-builder-guide
+https://deynarde.github.io/kag-archer-guide
 
