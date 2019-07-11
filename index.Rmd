@@ -1,7 +1,7 @@
 --- 
-title: "Archer Guides"
-subtitle: "podtytul borzy"
-author: "by Bunnie and deynarde"
+title: "Archer Guide"
+subtitle:
+author: "by Turtlebutt and Bunnie"
 date: "`r format(Sys.time(), '%d/%m/%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -19,9 +19,12 @@ description: "A KAG archer guide for both new and experienced players."
   <img src="imgs/logo.png">
 </p>
 
-hehe opis borzy
+Archer is a support class, and shouldn't be played aggressively in most situations, at least when you're a beginner.
+
+This guide will help people who are trying to get better at archer. We are going to cover everything including: improving your skill to various levels, how to play CTF, every archer trick/move you can do in this game and much more. Archer combat isn't as complex as knight and some players consider archer combat much easier to learn. If you want to get better this guide will certainly help you.
 
 > For a tutorial on playing as knight see [Knight Guides](https://deynarde.github.io/kag-knight-guide/).
 
-> Also you can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `deynarde#4491`).
+> You can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `unit#8073` (Turtlebutt))
 
+> Special thanks to deynarde for setting up the github repository for this
