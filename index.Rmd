@@ -1,0 +1,27 @@
+--- 
+title: "Archer Guides"
+subtitle: "podtytul borzy"
+author: "by Bunnie and deynarde"
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [latex/book.bib, latex/packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: deynarde/kag-archer-guide
+description: "A KAG archer guide for both new and experienced players."
+---
+
+# Introduction {-}
+
+<p align="center">
+  <img src="imgs/logo.png">
+</p>
+
+hehe opis borzy
+
+> For a tutorial on playing as knight see [Knight Guides](https://deynarde.github.io/kag-knight-guide/).
+
+> Also you can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `deynarde#4491`).
+
