@@ -24,6 +24,10 @@ A fullshot deals 1 heart of damage. and stuns the enemy for a short while if don
 
 [GIF 2 - fullshot stun on shield, fullshot stun without shield, fullshot no stun]
 
+You can use this to your advantage to, for example, stun enemies to make them fall off your tower:
+
+[gif 2.5]
+
 You can't stun the enemy by shooting them if they're 6 or more blocks away.
 
 ### Half shot
@@ -50,9 +54,11 @@ A quarter shot is the quickest shot. You need to charge it for only a short whil
 
 [GIF 6]
 
-If the arrow has time to gain velocity and you have significant height advantage, it can also do 1 heart of damage. It's a good tactic to spam quarter shots from your tower when there are lots of enemies below.
+If the arrow has time to gain velocity and you have significant height advantage, it can also do 1 heart of damage. It's a good tactic to spam quarter shots from your tower in CTF when there are lots of enemies below.
 
 [GIF 7]
+
+[GIF 8]
 
 ### Triple shot
 
@@ -91,7 +97,9 @@ The grappling hook relies on momentum, meaning the more momentum you have, the f
  
 [GIF 12]
 
-The mobility yo uhave thanks to the grappling hook is a major reason why archer is the most fun class to play for some. 
+The mobility you have thanks to the grappling hook is a major reason why archer is the most fun class to play for some. 
+
+However, you should keep in mind that you can't grapple while charging your bow. You can only first grapple, and then start charging an arrow, but you can't re-grapple while charging.
 
 ### Stomping
 
@@ -134,6 +142,10 @@ Keep in mind that the stun lasts less if the enemy had their shield up or is pra
 
 [gif 19 - sponge]
 
+The stun isn't shortened by the shield if the water arrow hit something near the knight (such as the ground or another player).
+
+[gif 18.5]
+
 A good tactic when playing against a defensive player when you have water is to stun him and then quickly half shot him before he gets unstunned and can react.
 
 [gif 20]
@@ -146,9 +158,11 @@ Fire arrows can burn wooden structures or enemy players to make them run towards
 
 [GIF 22 - burning player]
 
-Fire arrows shot at enemy kegs will make them catch fire which will ignite them, and it can be extinguished with a water bucket only, so be careful if your team has kegs stored up. This also happens if wooden background or wooden blocks next to the kegs start burning.
+Fire arrows shot at enemy kegs will make them catch fire which will ignite them. Lit kegs can be extinguished with a water bucket only, so be careful if your team has kegs stored up. This also happens if wooden background or wooden blocks next to the kegs start burning.
 
 [gif 23 - lighting enemy keg]
+
+Keep in mind: A close fullshot of a fire arrow doesn't stun the enemy like a normal arrow would.
 
 ### Bomb arrows
 
@@ -159,6 +173,21 @@ Bomb arrows can do significant damage on impact, 3 hearts of damage at most. Per
 [GIF 25 - bomb arrow flag room]
 
 [GIF 26 - bomb arrow collapse]
+
+Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a normal arrow would.
+
+
+### Boulder
+
+Aside from arrows, a good archer item is the boulder. Boulders can be used very effectively as archer in TDM, not so much in CTF though. You can instakill anyone if you manage to hit them with enough momentum, although this is very risky as you will need to get close with a lot of speed. This is hard to do consistently due to maps not being smooth and boulders not very reliable, plus the fact that boulders also make you move slower.
+
+Many people don't know that in TDM, bought boulders will never do damage to the players team who bought it. This causes many people to use the boulder and cripple themselves. This mechanic is like that only in TDM though, boulders in CTF will damage your team if the last person holding it was an enemy.
+[gif of boulder mechanics in tdm]
+Boulders can do 0.5, 1.5 and full health of damage, depending on the boulders velocity. They can bounce twice(can be multiple times but very rarely happens.) on an enemy head, which will add atleast half a heart of damage.
+
+[gif 27 - boulder]
+
+[GIF 28 - BOULDER]
 
 ## Learning & playing as a beginner
 
