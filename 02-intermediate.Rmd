@@ -114,5 +114,14 @@ Rarely useful, but a fun trick if you manage to do it -- you can shoot an arrow 
 
 [gif]
 
+### Shooting off kegs from enemy knights' backs
+
+If you shoot at the keg of an enemy, they drop the keg.
+
+[gif]
+
+If there's a knight with a keg on their back coming to you, you can try to crouch+grapple through him and shoot an arrow on the keg and then pick it up.
+
+[gif]
 
 
