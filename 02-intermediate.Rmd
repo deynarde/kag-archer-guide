@@ -92,6 +92,12 @@ If enemy knights threw a bomb at you and you have enough time, you can try throw
 
 [gif]
 
+### Catching kegs
+
+With fast enough reflexes you can catch kegs thrown at you.
+
+[gif]
+
 ### Baiting with a grapple
 
 If you're cornered by a knight, you can throw grapple (but not actually use it) to make the knight think you're going to grapple and try to go through them. This allows you to wait for a better opportunity to avoid them.
@@ -107,4 +113,6 @@ It sometimes works against archers -- they shoot an arrow in where you would be 
 Rarely useful, but a fun trick if you manage to do it -- you can shoot an arrow right after throwing a burger (or a dead fish) to make the burger gain high velocity.
 
 [gif]
+
+
 
