@@ -84,7 +84,6 @@ Keep in mind that people can avoid getting stomped by crouching -- if some knigh
 
 [gif]
 
-
 ### Throwing back enemy bombs
 
 If enemy knights threw a bomb at you and you have enough time, you can try throwing it back:
@@ -92,3 +91,14 @@ If enemy knights threw a bomb at you and you have enough time, you can try throw
 [gif]
 
 [gif]
+
+### Baiting with a grapple
+
+If you're cornered by a knight, you can throw grapple (but not actually use it) to make the knight think you're going to grapple and try to go through them. This allows you to wait for a better opportunity to avoid them.
+
+[gif]
+
+It sometimes works against archers -- they shoot an arrow in where you would be if you have had grappled.
+
+[gif]
+
