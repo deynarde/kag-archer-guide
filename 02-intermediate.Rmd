@@ -124,4 +124,4 @@ If there's a knight with a keg on their back coming to you, you can try to crouc
 
 [gif]
 
-
+Keep in mind that bomb arrows don't do this.
