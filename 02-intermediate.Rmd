@@ -44,6 +44,8 @@ You can make a wooden block ledge on the top of your tower with platforms facing
 
 [gif]
 
+Make sure to not jump while doing this (or move in any direction) until you want to jump forward -- use your mouse only. Jumping or moving for some reason makes you lose velocity in this situation.
+
 ### Close archer combat
 
 In close archer combat, you should always use half shots and sometimes quarter shots. However, in certain cases charging a full shot is also worth it -- you can to stun the enemy and then shoot them with a half shot, they can't move or shoot during the stun period but that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
