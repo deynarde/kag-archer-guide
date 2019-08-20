@@ -89,9 +89,9 @@ This works both ways, you can instantly explode an enemy keg aswell.
 
 ### Grappling
 
-The grappling hook gives archer the most mobility out of all three classes, making archer the most mobile class in combat situations. It can give you speed that can be used in many situations, like stealing the flag, someones dropped items, climbing a tower and harassing the enemy builder, etc.
+The grappling hook gives archer the most mobility out of all three classes, making archer the most mobile class in combat situations. It can give you speed that can be used in many situations, like stealing the flag, someones dropped items, climbing a tower and harassing the enemy builder, or just going through the map fast.
 
-[GIF 11]
+[GIF 11 - going through the map fast with using grappling hook]
 
 The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forwards, this is why spamming your grapple to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
  
