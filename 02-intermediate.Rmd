@@ -4,7 +4,7 @@
   <img src="imgs/bow.png">
 </p>
 
-## Some combat tricks
+## Some more tricks
 
 ### Crouching
 
@@ -35,6 +35,12 @@ If the block stopping you is 2 blocks high, you can shoot an arrow on the higher
 [gif here]
 
 Since you can't grapple while charging your bow, as mentioned earlier, you can use this to your advantage -- grapple and charge your bow, and then make your jump and shoot an arrow.
+
+[gif]
+
+### Grappling platforms
+
+You can make a wooden block ledge on the top of your tower with platforms facing downwards like on the gif below. Grappling platforms like that lets you gain high velocity which can be used to reaching the enemy base.
 
 [gif]
 
@@ -141,3 +147,4 @@ It works the same with lighting enemy kegs by fire arrows - if he's close to you
 [gif]
 
 Keep in mind that bomb arrows don't make kegs drop off enemies' backs, they just damage the keg.
+
