@@ -58,6 +58,12 @@ You can stun a shielding knight with a fullshot and then quartershot him to guar
 
 [gif]
 
+### Fullshot + grappling someone into a pit
+
+If you're fighting a knight near a pit, you could stun him with a fullshot then use your grappling hook to move him to the pit, as shown in the gif below.
+
+[gif]
+
 ### Stomping aggressively
 
 There are a lot of stomp + arrow combinations. Basically, if you know that you will stun someone by a stomp, it's good to charge an arrow -- sometimes a quartershot, in some cases even a halfshot. 
@@ -77,6 +83,7 @@ You should either do this whenever the enemy is busy focusing on a teammate or i
 Keep in mind that people can avoid getting stomped by crouching -- if some knight is not moving and shielding up while you're on a tree, it's likely that he's trying to bait you while crouching.
 
 [gif]
+
 
 ### Throwing back enemy bombs
 
