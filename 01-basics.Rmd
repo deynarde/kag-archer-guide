@@ -134,6 +134,8 @@ Each arrow supports a different role.
 
 Water arrows can extinguish fires or stun enemies for a while to gain extra time or make enemies defenseless against your teammates.
 
+[GIF extinguish fire]
+
 [GIF 17 stun]
 
 Keep in mind that the stun lasts less if the enemy had their shield up or is practically unexistant if they had a sponge in inventory.
@@ -150,9 +152,21 @@ A good tactic when playing against a defensive player when you have water is to 
 
 [gif 20]
 
+You can use water arrows on knights that hold a bomb in their hand.
+
+[gif of thing above]
+
+Water arrows' stun can also go through up to 2 blocks, as shown in the gif below.
+
+[gif of water cancer]
+
+You can try to shoot a water arrow on flying knights after they bomb jumped, so they fall down.
+
+[gif of shooting water at flying dog]
+
 ### Fire arrows
 
-Fire arrows can burn wooden structures or enemy players to make them run towards their cursors' direction. 
+Fire arrows can burn wooden structures or enemy players to make them run towards their cursors' direction. This means that the shot will deal them 1 heart of damage, and the fire will deal them 0.25 hearts of damage for 4 seconds (so up to 2 hearts).
 
 [GIF 21 - burning wooden structures]
 
@@ -178,8 +192,23 @@ One bomb arrow kills a catapult, and two bomb arrows kill a ballista, so wheneve
 
 [another giffo]
 
-Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a normal arrow would.
+Bomb arrows are also very good for damaging spike traps - they destroy a lot of spikes in one shot.
 
+[another giffo of bomb arrow on spikes]
+
+They also deal more damage to platforms like in the gif below.
+
+[gif of shooting bomb arrow on platforms]
+
+However, if the platforms are faced the opposite way, they only destroy one platform -- as in gif below.
+
+[gif of shooting bomb arrows on opposite platforms]
+
+You can destroy a lot of enemy doors if there's an enemy standing in them:
+
+[gif of bomb arrow on enemy doors]
+
+Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a normal arrow would.
 
 ### Boulder
 
