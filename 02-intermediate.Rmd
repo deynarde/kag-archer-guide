@@ -114,7 +114,7 @@ Rarely useful, but a fun trick if you manage to do it -- you can shoot an arrow 
 
 [gif]
 
-### Shooting off kegs from enemy knights' backs
+### Shooting off and lighting kegs from enemy knights' backs
 
 If you shoot at the keg of an enemy, they drop the keg.
 
@@ -124,4 +124,20 @@ If there's a knight with a keg on their back coming to you, you can try to crouc
 
 [gif]
 
-Keep in mind that bomb arrows don't do this.
+Keep in mind, in some cases you don't need to shoot exactly at the keg to make it drop.
+
+If the enemy has his shield up, and you're close enough (less than around 10 blocks), just shooting at the shield will make the keg fall.
+
+[gif]
+
+If the enemy is a bit far away, shooting at the shield won't do anything to the keg.
+
+[gif]
+
+It works the same with lighting enemy kegs by fire arrows - if he's close to you, shooting a fire arrow just at the shield will light the keg, but if he's a bit more far away, it won't.
+
+[gif]
+
+[gif]
+
+Keep in mind that bomb arrows don't make kegs drop off enemies' backs, they just damage the keg.
