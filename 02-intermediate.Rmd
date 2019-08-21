@@ -150,6 +150,12 @@ It works the same with lighting enemy kegs by fire arrows - if he's close to you
 
 Keep in mind that bomb arrows don't make kegs drop off enemies' backs, they just damage the keg.
 
+### Shooting mines
+
+You can shoot enemy mines to make them explode.
+
+[gif]
+
 ### Water arrow + fire arrow combo
 
 Slightly cheesy, but if you've got a water arrow and a fire arrow, you can stun someone with water, then do a fire halfshot.
