@@ -15,6 +15,10 @@ description: "A KAG archer guide for both new and experienced players."
 
 # Introduction {-}
 
+<p align="center">
+  <img src="imgs/logo.png">
+</p>
+
 This guide will help people who are trying to get better at archer. We are going to cover everything -- improving your skill to various levels, every archer trick/move you can do in this game and much more. Archer combat isn't as complex as knight combat and some players consider archer combat much easier to learn. If you want to get better this guide will certainly help you.
 
 > For a tutorial on playing as knight see: [Knight Guide](https://deynarde.github.io/kag-knight-guide/).
