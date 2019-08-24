@@ -80,7 +80,11 @@ If you're fighting a knight near a pit, you could stun him with a fullshot then 
 
 ### Stomping aggressively
 
-There are a lot of stomp + arrow combinations. Basically, if you know that you will stun someone by a stomp, it's good to charge an arrow -- sometimes a quartershot, a halfshot, and in some cases even a fullshot.
+If you're quick and fast enough, you can often stomp knights and archers when they don't expect it by using your grapple:
+
+[12.5]
+
+There are also a lot of stomp + arrow combinations. Basically, if you know that you will stun someone by a stomp, it's good to charge an arrow -- sometimes a quartershot, sometimes even a halfshot.
 
 [13]
 
@@ -171,10 +175,3 @@ You can shoot enemy mines to make them explode.
 If you shoot at the block below grain, you will be able to pick up the grain and use it to heal yourself.
 
 [29]
-
-### Water arrow + fire arrow combo
-
-Slightly cheesy, but if you've got a water arrow and a fire arrow, you can stun someone with water, then do a fire halfshot.
-
-[30]
-
