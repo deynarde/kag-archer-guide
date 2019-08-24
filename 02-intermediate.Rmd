@@ -120,7 +120,7 @@ It sometimes works against archers -- they shoot an arrow in where you would be 
 
 [20]
 
-### Shooting burgers to your teammates
+### Shooting food to your teammates
 
 Rarely useful, but a fun trick if you manage to do it -- you can shoot an arrow right after throwing a burger (or a dead fish) to make the burger gain high velocity.
 
@@ -160,9 +160,15 @@ You can shoot enemy mines to make them explode.
 
 [28]
 
+### Shooting grain
+
+If you shoot at the block below grain, you will be able to pick up the grain and use it to heal yourself.
+
+[29]
+
 ### Water arrow + fire arrow combo
 
 Slightly cheesy, but if you've got a water arrow and a fire arrow, you can stun someone with water, then do a fire halfshot.
 
-[29]
+[30]
 
