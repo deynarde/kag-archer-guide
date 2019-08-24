@@ -50,7 +50,7 @@ You can make a wooden block ledge on the top of your tower with platforms facing
 
 [7]
 
-Make sure to not jump while doing this (or move in any direction) until you want to jump forward -- use your mouse only. Jumping or moving for some reason makes you lose velocity in this situation.
+Make sure to not jump while doing this (or move in any direction) -- use your mouse (grapple) only. Jumping or moving for some reason makes you lose velocity in this situation. Start moving only after you're jumping off the platform.
 
 ### Close archer combat
 
@@ -58,7 +58,7 @@ In close archer combat, you should always use half shots and sometimes quarter s
 
 [8]
 
-Spamming quartershots in close combat is not very effective since your shots have small velocity and do half a heart of damage. They can be good for making a barrier if the enemy will die trying to pass it. As mentioned earlier, best way to use them is by being above the enemy, and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity and very good if the enemy is not able to shield them.
+Spamming quartershots in close combat is not very effective since your shots have small velocity and do half a heart of damage. They can be good for making a barrier if the enemy will die trying to pass it. As mentioned earlier, best way to use them is by being above the enemy, and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity.
 
 [9]
 
