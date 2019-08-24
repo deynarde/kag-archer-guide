@@ -144,7 +144,7 @@ Keep in mind that the stun lasts less if the enemy had their shield up or is pra
 
 [gif 19 - sponge]
 
-The stun isn't shortened by the shield if the water arrow hit something near the knight (such as the ground or another player).
+The stun isn't shortened by the shield if the water arrow hit his head (a normal arrow would've been shielded in this situation), or if the water arrow hit terrain near the enemy knight that the knight wasn't shielding.
 
 [gif 18.5]
 
