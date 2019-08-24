@@ -80,7 +80,7 @@ If you're fighting a knight near a pit, you could stun him with a fullshot then 
 
 ### Stomping aggressively
 
-There are a lot of stomp + arrow combinations. Basically, if you know that you will stun someone by a stomp, it's good to charge an arrow -- sometimes a quartershot, in some cases even a halfshot. 
+There are a lot of stomp + arrow combinations. Basically, if you know that you will stun someone by a stomp, it's good to charge an arrow -- sometimes a quartershot, a halfshot, and in some cases even a fullshot.
 
 [13]
 
@@ -94,9 +94,15 @@ Very good archers are able to stomp enemies (even charging knights) freely witho
 
 You should either do this whenever the enemy is busy focusing on a teammate or inbetween their slashes, this is almost not worth doing if you are lagging since you won't be able to time the stomp perfectly.
 
+Another good trick is stomping someone and then shooting a triple shot.
+
+[15.5]
+
 Keep in mind that people can avoid getting stomped by crouching -- if some knight is not moving while you're on a tree, it's likely that he's trying to bait you while crouching.
 
 [16]
+
+Remember to keep in mind you can't stomp shielding knights at all.
 
 ### Throwing back enemy bombs
 
