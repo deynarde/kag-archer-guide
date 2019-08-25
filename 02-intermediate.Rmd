@@ -12,6 +12,22 @@ There are 2 kinds of cameras in KAG - unfixed camera and fixed (this can be chan
 
 ## Some more tricks
 
+### Momentum jump
+
+You can easily get momentum for your grapple by throwing it as far as you can and having a block stop you from going to it, then jump.
+
+The main point of this is to be able to charge your bow before jumping -- you can't charge while grappling something, as mentioned in the first chapter, so you need to grapple first, then charge, then jump.
+
+[4]
+
+If the block stopping you is 2 blocks high, you can shoot an arrow on the higher block so you climb the arrow and then jump over
+
+[5]
+
+In some cases, you can do a momentum jump without having a block if you have height advantage -- you can just quartershot someone, so you don't need to charge the bow for long.
+
+[pepega]
+
 ### Crouching
 
 Crouching is a largely forgotten, although very useful mechanic in KAG. Basically, when you hold down S, as long as you don't move with your control keys (W/A/S/D) enemies can go through you - and in certain cases, you can go through enemies.
@@ -29,24 +45,6 @@ Another cool mechanic is that you can grapple the ground while crouching, allowi
 If a knight is trying to shieldbash you and quickly shield slides in your direction, you can also wait until he walks into you and then shoot him.
 
 [3]
-
-### Momentum jump
-
-You can easily get momentum for your grapple by throwing it as far as you can and having a block stop you from going to it, then jump.
-
-[4]
-
-If the block stopping you is 2 blocks high, you can shoot an arrow on the higher block so you climb the arrow and then jump over
-
-[5]
-
-Since you can't grapple while charging your bow, as mentioned earlier, you can use this to your advantage -- grapple and charge your bow, and then make your jump and shoot an arrow.
-
-[6]
-
-In some cases, you can do a momentum jump without having a block if you have height advantage -- you can just quartershot someone, so you don't need to charge the bow for long.
-
-[pepega]
 
 ### Grappling platforms
 
