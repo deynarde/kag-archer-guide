@@ -44,6 +44,10 @@ Since you can't grapple while charging your bow, as mentioned earlier, you can u
 
 [6]
 
+In some cases, you can do a momentum jump without having a block if you have height advantage -- you can just quartershot someone, so you don't need to charge the bow for long.
+
+[pepega]
+
 ### Grappling platforms
 
 You can make a wooden block ledge on the top of your tower with platforms facing downwards like on the gif below. Grappling platforms like that lets you gain high velocity which can be used to reaching the enemy base.
