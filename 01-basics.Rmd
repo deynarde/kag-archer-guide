@@ -70,10 +70,6 @@ It can kill archers or builders instantly if all the arrows hit.
 
 [692]
 
-Stomping and shooting knights with triple shot can instakill them if the stomp damages them.
-
-[693]
-
 It's also a good way to get players knocked off a tower or into your teams knights/mine.
 
 [694]
