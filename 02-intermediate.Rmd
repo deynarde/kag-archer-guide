@@ -209,3 +209,9 @@ Although this is fairly obvious, many archers just ignore mats laying around on 
 If the enemy flag doesn't have many defences, you could sneak to the enemy flagroom with a couple bomb arrows (usually 3 or 4) and steal the flag
 
 [88]
+
+### Doors have weird hitbox
+
+Doors have slightly larger hitbox than normal blocks, which makes them a "magnet" to arrows sometimes. Shooting in a hole between doors is much harder and requires more precision than if you were shooting in a hole between normal blocks (stone blocks)
+
+[85]
