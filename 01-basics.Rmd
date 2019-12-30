@@ -64,34 +64,47 @@ If the arrow has time to gain velocity and you have significant height advantage
 
 Triple shot is the strongest attack. Requires charging for 2 seconds and shoots 3 arrows. The top and bottom arrows decay after a second or so, while the middle one has the velocity of a full charged shot and does not decay.
 
-[gif here]
+[691]
 
 It can kill archers or builders instantly if all the arrows hit.
 
-[gifs here]
+[692]
 
 Stomping and shooting knights with triple shot can instakill them if the stomp damages them.
 
-[gifs here]
+[693]
 
 It's also a good way to get players knocked off a tower or into your teams knights/mine.
 
-[gifs here]
+[694]
 
-Triple shot accelerates kegs like a waterbomb would.
+Triple shot accelerates enemy kegs:
 
-[gifs here]
+[695 keg on ground]
 
-This works both ways, you can instantly explode an enemy keg aswell.
+If the keg is damaged, you can instantly explode it with a triple shot as well:
 
-[gifs here]
-[gif with knight holding keg aswell]
+[696]
+
+### Aiming into the direction you move
+
+You should almost always aim in the direction you're moving to -- all classes in KAG move faster when moving towards the cursor's direction.
+
+[gif240]
+
+When retreating, you shouldn't move backwards while shooting the other direction -- this is one of the most common mistakes for new archer players. Don't do this!
+
+[gif242]
 
 ### Grappling
 
 The grappling hook gives archer the most mobility out of all three classes, making archer the most mobile class in combat situations. It can give you speed that can be used in many situations, like stealing the flag, someones dropped items, climbing a tower and harassing the enemy builder, or just going through the map fast.
 
 [GIF 11 - going through the map fast with using grappling hook]
+
+While grappling trees for momentum, you shouldn't hold W in order to not slow yourself down by climbing the trees.
+
+[gif11.5]
 
 The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forwards, this is why spamming your grapple to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
  
@@ -113,7 +126,9 @@ You can stomp people by falling on top of them, which stuns them and does damage
 
 [need gifs with failed stomps aswell]
 
-If you want to stomp a knight that has his shield up, you need to stomp with a higher velocity.
+You can't stomp a knight that is shielding up, no matter the velocity.
+
+[GIF ricardo]
 
 Stomping is a good mechanic to get rid of enemy builders or archers that get too close to your base. 
 
@@ -195,6 +210,10 @@ Bomb arrows are also very good for damaging spike traps - they destroy a lot of 
 They also deal more damage to platforms like in the gif below.
 
 [gif of shooting bomb arrow on platforms]
+
+If you shoot a bomb arrow at a stone wall, with platforms facing your way behind that wall, they also get damaged:
+
+[pepegahammer]
 
 However, if the platforms are faced the opposite way, they only destroy one platform -- as in gif below.
 
