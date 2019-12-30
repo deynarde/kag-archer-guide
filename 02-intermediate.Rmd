@@ -184,10 +184,28 @@ If you shoot at the block below grain, you will be able to pick up the grain and
 
 While most of what was mentioned earlier applies to all gamemodes, there's some CTF-specific stuff that you should also know.
 
-### Shooting siege
+### Damaging siege (without items)
 
-- write about shit hitbox of doors and platforms (gif 85)
-- shooting siege when its on wheels (gif 86)
-- moving siege with 3x close range (gif 87)
-- ninja flag (gif 88)
-- get mats from enemy (gif 89, mention order gold>stone>wood)
+Shooting catapults or ballistas when they still have wheels attached makes them move. In some cases you can make a catapult or a ballista fall over, damaging it greatly.
+
+[86]
+
+If you manage to get right next to an enemy catapult on top of a tower, you can shoot it with a triple shot at the correct angle to move it:
+
+[87]
+
+Although if you get to an enemy ballista, you should probably just swap class to knight or builder:
+
+[87.5]
+
+### Getting mats from the enemy
+
+Although this is fairly obvious, many archers just ignore mats laying around on the ground. If you see many materials laying around (especially on enemy territory), you should pick them up and deliver to a close builder or just to a safe spot. (Generally, most important materials are gold and stone, with wood not being as important)
+
+[89]
+
+### "Ninjaing" the flag
+
+If the enemy flag doesn't have many defences, you could sneak to the enemy flagroom with a couple bomb arrows (usually 3 or 4) and steal the flag
+
+[88]
