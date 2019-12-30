@@ -24,9 +24,11 @@ If the block stopping you is 2 blocks high, you can shoot an arrow on the higher
 
 [5]
 
-In some cases, you can do a momentum jump without having a block if you have height advantage -- you can just quartershot someone, so you don't need to charge the bow for long.
+In some cases, you can do a momentum jump without a stopping block, but this means you don't have as much time to charge your bow -- although you still can just quartershot someone, or even halfshot in some cases.
 
 [pepega]
+
+[5.5halfshot]
 
 ### Crouching
 
@@ -177,3 +179,15 @@ You can shoot enemy mines to make them explode.
 If you shoot at the block below grain, you will be able to pick up the grain and use it to heal yourself.
 
 [29]
+
+## CTF-specific stuff
+
+While most of what was mentioned earlier applies to all gamemodes, there's some CTF-specific stuff that you should also know.
+
+### Shooting siege
+
+- write about shit hitbox of doors and platforms (gif 85)
+- shooting siege when its on wheels (gif 86)
+- moving siege with 3x close range (gif 87)
+- ninja flag (gif 88)
+- get mats from enemy (gif 89, mention order gold>stone>wood)
