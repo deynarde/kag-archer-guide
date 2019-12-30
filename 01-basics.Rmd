@@ -225,9 +225,11 @@ Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a nor
 
 Aside from arrows, a good archer item is the boulder. Boulders can be used very effectively as archer in TDM, not so much in CTF though. You can instakill anyone if you manage to hit them with enough momentum, although this is very risky as you will need to get close with a lot of speed. This is hard to do consistently due to maps not being smooth and boulders not very reliable, plus the fact that boulders also make you move slower.
 
-Many people don't know that in TDM, bought boulders will never do damage to the players team who bought it. This causes many people to use the boulder and cripple themselves. This mechanic is like that only in TDM though, boulders in CTF will damage your team if the last person holding it was an enemy.
+Many people don't know that in TDM, bought boulders will never do damage to the team of the player who bought it. This causes many people to use the boulder and cripple themselves. This mechanic works like that only in TDM though, boulders in CTF will damage your team if the last person holding it was an enemy.
+
 [gif of boulder mechanics in tdm]
-Boulders can do 0.5, 1.5 and full health of damage, depending on the boulders velocity. They can bounce twice(can be multiple times but very rarely happens.) on an enemy head, which will add atleast half a heart of damage.
+
+Boulders can do 0.5, 1.5 and full health of damage, depending on the boulders velocity. They sometimes bounce twice on an enemy head, which will add at least half a heart of damage.
 
 [gif 27 - boulder]
 
