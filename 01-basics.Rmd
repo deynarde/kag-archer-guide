@@ -78,10 +78,6 @@ Triple shot accelerates enemy kegs:
 
 [695 keg on ground]
 
-If the keg is damaged, you can instantly explode it with a triple shot as well:
-
-[696]
-
 ### Aiming into the direction you move
 
 You should almost always aim in the direction you're moving to -- all classes in KAG move faster when moving towards the cursor's direction.
