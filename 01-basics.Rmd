@@ -18,7 +18,7 @@ As an archer, you have a bow with a limited amount of arrows and a grappling hoo
 
 Charging a bow to do what is known as a 'full shot' takes a full second (30 ticks). Just watch your cursor to know when you can release your mouse button to do a fullshot.
 
-[GIF 1 - shoot someone with a fullshot]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/1.webm" controls loop="loop" preload></video><br>
 
 A fullshot deals 1 heart of damage. and stuns the enemy for a short while if done in a close distance (even if it's a shielding knight).
 
@@ -38,9 +38,9 @@ Half shot requires charging for slightly more than half of the cursor - first re
 
 [GIF 3.2]
 
-They don't stun like full shots, and have a lower velocity, but they do the same amount of damage - 1 heart. You should use them the most at mid-range fights and when supporting your knights - they're the most useful shots most of the time.
+They don't stun like full shots, have a lower velocity and travel less distance, but they do the same amount of damage - 1 heart. You should use them the most at mid-range fights and when supporting your knights - they're the most useful shots most of the time.
 
-Keep in mind that if you shoot a half shot and it hits the enemy that was a bit more far away, it may lose velocity and do 0.5 heart of damage instead.
+Keep in mind that if you shoot a half shot and it hits the enemy that was a bit more far away, it may lose velocity and do 0.5 heart of damage instead, like in the gif below.
 
 [GIF 4 - 0.5 heart]
 
