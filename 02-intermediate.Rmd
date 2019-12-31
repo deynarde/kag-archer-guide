@@ -40,6 +40,8 @@ For example, if someone is trying to stomp you, you can crouch to avoid being hi
 
 [1]
 
+(Don't really do this when knights want to stomp you -- they're likely to also slash at the same time, so it's mainly against archers and builders)
+
 Another cool mechanic is that you can grapple the ground while crouching, allowing you to go through enemies as long as you stay on the ground and don't use control keys (WASD), just using your grapple's momentum:
 
 [2]
