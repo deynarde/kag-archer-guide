@@ -23,6 +23,6 @@ This guide will help people who are trying to get better at archer. We are going
 
 > For a tutorial on playing as knight see: [Knight Guide](https://deynarde.github.io/kag-knight-guide/).
 
-> You can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `unit#8073` (Turtlebutt))
+> You can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `unit#8073` (Turtlebutt)).
 
-> Special thanks to deynarde for setting up the github repository for this
+> Special thanks to deynarde for setting up the github repository for this.
