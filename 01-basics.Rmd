@@ -16,9 +16,11 @@ As an archer, you have a bow with a limited amount of arrows and a grappling hoo
 
 ### Full shot
 
-Charging a bow to do what is known as a 'full shot' takes a full second (30 ticks). Just watch your cursor to know when you can release your mouse button to do a fullshot.
+Charging a bow to do what is known as a 'full shot' takes a full second (30 ticks). **The cursor isn't exactly accurate -- you can do a fullshot on 90% of cursor charge (final yellow dot before full charge)**.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/1.webm" controls loop="loop" preload></video><br>
+[gif]
+
+[gif]
 
 A fullshot deals 1 heart of damage. and stuns the enemy for a short while if done in a close distance (even if it's a shielding knight).
 
@@ -28,7 +30,7 @@ You can use this to your advantage to, for example, stun enemies to make them fa
 
 [gif 2.5]
 
-You can't stun the enemy by shooting them if they're 6 or more blocks away.
+Fullshots don't stun the enemy if they're 6 or more blocks away.
 
 ### Half shot
 
@@ -134,8 +136,9 @@ Mobility is the most important aspect of playing against other players, the bett
 
 ## Items
 
-Archer has three special arrow types - water arrow, fire arrow and bomb arrow.
-Each arrow supports a different role. 
+Archer has three special arrow types - water arrow, fire arrow and bomb arrow. Each arrow has a different role.
+
+You can swap arrows by holding F and selecting them in the menu, but the quickest way is just to tap F, which will swap to the next arrow. This also works when you're in the middle of charging a shot.
 
 ### Water arrows
 
@@ -145,13 +148,7 @@ Water arrows can extinguish fires or stun enemies for a while to gain extra time
 
 [GIF 17 stun]
 
-Keep in mind that the stun lasts less if the enemy had their shield up or is practically unexistant if they had a sponge in inventory.
-
-[GIF 18 - shield up]
-
-[gif 19 - sponge]
-
-A good (but slightly cheesy) tactic when playing against a defensive player when you have water is to stun him and then quickly half shot him before he gets unstunned and can react. Can also use a fire or a bomb arrow instead of a normal halfshot.
+A good tactic when using water is to stun enemies and then quickly halfshot or fullshot them before they get unstunned and can react. Can also use a fire or a bomb arrow instead of a normal halfshot.
 
 [gif 20]
 
@@ -166,6 +163,12 @@ Water arrows' stun can also go through up to 2 blocks, as shown in the gif below
 You can try to shoot a water arrow on flying knights after they bomb jumped, so they fall down.
 
 [gif of shooting water at flying dog]
+
+Keep in mind that the stun lasts less (50%) if the enemy had their shield up and even less if they had a sponge in inventory.
+
+[GIF 18 - shield up]
+
+[gif 19 - sponge]
 
 ### Fire arrows
 
@@ -183,15 +186,51 @@ Keep in mind: A close fullshot of a fire arrow doesn't stun the enemy like a nor
 
 ### Bomb arrows
 
-Bomb arrows can do significant damage on impact, 3 hearts of damage at most. Perfect for killing enemy builders while they're rushing towards your base. They're also very good to be used against enemy structures as they will destroy 3 blocks facing opposite of the bomb arrows tip, they also do have some area of damage around the impact, which can break backwalls, which makes them excellent at collapsing enemy towers and opening enemy flagrooms, although they obviously don't hit backwalls themselves. 
+Bomb arrows can do significant damage on impact, 3 hearts of damage at most. They instantly kill enemy builders and archers. They're also very good to be used against enemy structures as they will destroy 3 blocks facing opposite of the bomb arrows tip, they also do have some area of damage around the impact, which can break backwalls, which makes them excellent at collapsing enemy towers and opening enemy flagrooms, although they obviously don't hit backwalls themselves. 
 
-[GIF 24 - bomb arrow enemy builder]
+First, some gifs demonstrating using bomb arrows against enemy archers in TDM:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar1.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar4.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar5.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar12.webm" controls loop="loop" preload></video><br>
+
+Bomb arrows do the same amount of damage regardless of whether they were shot as a quartershot, halfshot or a fullshot.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar13.webm" controls loop="loop" preload></video><br>
+
+If bomb arrows are shot as a triple shot, only the middle one will be a bomb arrow. This applies to water and fire arrows as well.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar14.webm" controls loop="loop" preload></video><br>
+
+After using bomb arrows on knights, you can try finishing them with a fullshot or a halfshot to take the last heart.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar10.webm" controls loop="loop" preload></video><br>
+
+The explosion from bomb arrows is strong enough to stop enemy knights from being able to wallclimb.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar11.webm" controls loop="loop" preload></video><br>
+
+Using bomb arrows to collapse structures on enemies:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar6.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar7.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar8.webm" controls loop="loop" preload></video><br>
 
 [GIF 25 - bomb arrow flag room]
 
 [GIF 26 - bomb arrow collapse]
 
-One bomb arrow kills a catapult, and two bomb arrows kill a ballista, so whenever you see enemy siege vehicles, you should bomb arrow them -- this significantly will help your team.
+One bomb arrow kills a catapult, and two bomb arrows kill a ballista, so whenever you see enemy siege vehicles, you should bomb arrow them -- this will significantly help your team.
 
 [another giffo]
 
@@ -219,15 +258,25 @@ Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a nor
 
 ### Boulder
 
-Aside from arrows, a good archer item is the boulder. Boulders can be used very effectively as archer in TDM, not so much in CTF though (due to them costing stone in the builder shop, rather than coins). You can instakill anyone if you manage to hit them with enough momentum, although this is very risky as you will need to get close with a lot of speed. This is hard to do consistently due to maps not being smooth and boulders not very reliable, plus the fact that boulders also make you move slower.
+Aside from arrows, a good archer item is the boulder. Boulders can be used very effectively as archer in TDM, not so much in CTF though (due to them costing stone in the builder shop, rather than coins). You can instakill anyone if you manage to hit them with enough momentum, although this is very risky as you will need to get close with a lot of velocity. This is hard to do consistently due to maps not being smooth and boulders not very reliable, plus the fact that boulders also make you move slower.
 
 > Many people don't know that in TDM, bought boulders will never do damage to the team of the player who bought it. This causes many people to use the boulder and cripple themselves. This mechanic works like that only in TDM though, boulders in CTF will damage your team if the last person holding it was an enemy.
 
-Boulders can do 0.5, 1.5 and full health of damage, depending on the boulders velocity. They sometimes bounce twice on an enemy head, which will add at least half a heart of damage.
+Boulders can do 0.5, 1.5 and full health of damage, depending on the boulder's velocity. They sometimes bounce twice on an enemy head, which will add at least half a heart of damage. Below are some gifs demonstrating how boulders can be used in TDM.
 
-[gif 27 - boulder]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bouldercrush.webm" controls loop="loop" preload></video><br>
 
-[GIF 28 - BOULDER]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder4.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder5.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder6.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder7.webm" controls loop="loop" preload></video><br>
 
 ## Learning & playing as a beginner
 
