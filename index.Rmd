@@ -1,7 +1,7 @@
 --- 
 title: "Archer Guide"
 subtitle:
-author: "by Turtlebutt and Bunnie"
+author: "by Turtlebutt"
 date: "`r format(Sys.time(), '%d/%m/%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
