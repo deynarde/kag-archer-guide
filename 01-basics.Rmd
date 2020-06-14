@@ -6,7 +6,7 @@
 
 ## The archer class
 
-There are three classes in KAG: the archer, the builder and the knight. While the archer isn't as strong as the knight class, it's probably the most fun class to play in TDM and is very viable support in CTF if played well. Good archers can also play aggressively and get as many kills as knights. A good team in Capture The Flag (CTF) or Take The Halls (TTH) should have at least 2-3 archers (if your team isn't lacking knights, of course).
+There are three classes in KAG: the archer, the builder and the knight. While the archer isn't as strong as the knight class, it's a very fun fun class to play in TDM and is viable support in CTF if played well. Good archers can play aggressively while getting as many kills as knights. A good team in Capture The Flag (CTF) or Take The Halls (TTH) should have at least 2-3 archers (if your team isn't lacking knights, of course).
 
 As an archer in CTF and TTH, your role is to support your team by being an annoyance to enemy knights or using special arrows, but before we get to that part, let's talk about the combat mechanics first.
 
@@ -219,11 +219,9 @@ Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a nor
 
 ### Boulder
 
-Aside from arrows, a good archer item is the boulder. Boulders can be used very effectively as archer in TDM, not so much in CTF though. You can instakill anyone if you manage to hit them with enough momentum, although this is very risky as you will need to get close with a lot of speed. This is hard to do consistently due to maps not being smooth and boulders not very reliable, plus the fact that boulders also make you move slower.
+Aside from arrows, a good archer item is the boulder. Boulders can be used very effectively as archer in TDM, not so much in CTF though (due to them costing stone in the builder shop, rather than coins). You can instakill anyone if you manage to hit them with enough momentum, although this is very risky as you will need to get close with a lot of speed. This is hard to do consistently due to maps not being smooth and boulders not very reliable, plus the fact that boulders also make you move slower.
 
-Many people don't know that in TDM, bought boulders will never do damage to the team of the player who bought it. This causes many people to use the boulder and cripple themselves. This mechanic works like that only in TDM though, boulders in CTF will damage your team if the last person holding it was an enemy.
-
-[gif of boulder mechanics in tdm]
+> Many people don't know that in TDM, bought boulders will never do damage to the team of the player who bought it. This causes many people to use the boulder and cripple themselves. This mechanic works like that only in TDM though, boulders in CTF will damage your team if the last person holding it was an enemy.
 
 Boulders can do 0.5, 1.5 and full health of damage, depending on the boulders velocity. They sometimes bounce twice on an enemy head, which will add at least half a heart of damage.
 
