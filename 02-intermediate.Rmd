@@ -52,7 +52,7 @@ If a knight is trying to shieldbash you and quickly shield slides in your direct
 
 ### Grappling platforms
 
-You can make a wooden block ledge on the top of your tower with platforms facing downwards like on the gif below. Grappling platforms like that lets you gain high velocity which can be used to reaching the enemy base.
+You can make a wooden block ledge (as a builder obviously) on the top of your tower with platforms facing downwards like on the gif below. Grappling platforms like that lets you gain high velocity which can be used to reaching the enemy base.
 
 [7]
 
@@ -74,7 +74,7 @@ Quartershots, however, are quite good for finishing off people with only half a 
 
 ### Fullshot + quartershot combo on shielding knight
 
-You can stun a shielding knight with a fullshot and then quartershot him to guarantee a 0.5 heart hit.
+You can stun a shielding knight with a fullshot and then quartershot him right after that to guarantee a 0.5 heart hit.
 
 [11]
 
@@ -83,6 +83,14 @@ You can stun a shielding knight with a fullshot and then quartershot him to guar
 If you're fighting a knight near a pit, you could stun him with a fullshot then use your grappling hook to move him to the pit, as shown in the gif below.
 
 [12]
+
+### Shooting over enemy knight shield
+
+Enemy archers will sometimes try to hide behind knights' shields. You can try to shoot slightly above the knight to hit the enemy archer.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/overs.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/overs2.webm" controls loop="loop" preload></video><br>
 
 ### Stomping aggressively
 
@@ -206,7 +214,7 @@ Although this is fairly obvious, many archers just ignore mats laying around on 
 
 [89]
 
-### "Ninjaing" the flag
+### Stealing the flag
 
 If the enemy flag doesn't have many defences, you could sneak to the enemy flagroom with a couple bomb arrows (usually 3 or 4) and steal the flag
 
