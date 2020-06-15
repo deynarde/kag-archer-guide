@@ -18,11 +18,9 @@ As an archer, you have a bow with a limited amount of arrows and a grappling hoo
 
 Charging a bow to do what is known as a 'full shot' takes a full second (30 ticks). **The cursor isn't exactly accurate -- you can do a fullshot on 90% of cursor charge (final yellow dot before full charge)**.
 
-[gif]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fullshots.webm" controls loop="loop" preload></video><br>
 
-[gif]
-
-A fullshot deals 1 heart of damage. and stuns the enemy for a short while if done in a close distance (even if it's a shielding knight).
+A fullshot deals 1 heart of damage and stuns the enemy for a short while if done in a close distance (even if it's a shielding knight).
 
 [GIF 2 - fullshot stun on shield, fullshot stun without shield, fullshot no stun]
 
@@ -34,15 +32,21 @@ Fullshots don't stun the enemy if they're 6 or more blocks away.
 
 ### Half shot
 
-Half shot requires charging for slightly more than half of the cursor - first red dot, as seen in the gif below.
+Half shot requires charging for slightly more than half of the cursor -- the final red dot, as seen in the gif below.
 
-[GIF 3 - shoot half shots at people]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/halfshots.webm" controls loop="loop" preload></video><br>
 
-[GIF 3.2]
+Quick halfshots are a significant amount of any good archer's kills, especially if fighting against other enemy archers at a distance.
 
-They don't stun like full shots, have a lower velocity and travel less distance, but they do the same amount of damage - 1 heart. You should use them the most at mid-range fights and when supporting your knights - they're the most useful shots most of the time.
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/pagchamp.webm" controls loop="loop" preload></video><br>
 
-Keep in mind that if you shoot a half shot and it hits the enemy that was a bit more far away, it may lose velocity and do 0.5 heart of damage instead, like in the gif below.
+[more gifs here]
+
+They don't stun on close distance like full shots, have a lower velocity and travel less distance, but they do the same amount of damage -- 1 heart. You should use them the most at mid-range fights and when supporting your knights -- they're the most useful shots most of the time.
+
+[more gifs]
+
+Keep in mind that if you shoot a half shot and it hits the enemy that was far away, it's likely to lose some velocity along the way and do 0.5 heart of damage instead, like in the gif below (this can also happen to fullshots). This is because damage of arrows is dependent on their velocity when they hit somebody.
 
 [GIF 4 - 0.5 heart]
 
@@ -82,13 +86,9 @@ Triple shot accelerates enemy kegs:
 
 ### Aiming into the direction you move
 
-You should almost always aim in the direction you're moving to -- all classes in KAG move faster when moving towards the cursor's direction.
+You should almost always aim in the direction you're moving to -- all classes in KAG move faster when moving towards the way they're looking at (the cursor's direction, either left or right). When retreating, you shouldn't move backwards while shooting the other direction -- this is one of the most common mistakes for new archer players. Don't do this -- just look away from the enemy while escaping, and then look back at them only when your bow is already charged.
 
-[gif240]
-
-When retreating, you shouldn't move backwards while shooting the other direction -- this is one of the most common mistakes for new archer players. Don't do this!
-
-[gif242]
+[GIF]
 
 ### Grappling
 
@@ -106,19 +106,25 @@ The grappling hook relies on momentum, meaning the more momentum you have, the f
 
 The mobility you have thanks to the grappling hook is a major reason why archer is the most fun class to play for some. 
 
+You can often dodge enemy bombs, arrows, or avoid enemies themselves by using your grappling hook.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dodg.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dodg2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dodg3.webm" controls loop="loop" preload></video><br>
+
 However, you should keep in mind that you can't grapple while charging your bow. You can only first grapple, and then start charging an arrow, but you can't re-grapple while charging.
 
 ### Stomping
 
-You can stomp people by falling on top of them, which stuns them and does damage depending on your velocity (1 heart or 2 hearts). The grappling hook helps you to gain velocity you wouldn't have by normally jumping, this gets nullified at bigger fall distances as you will not have time to grapple down at the ground to get that extra momentum, because the grapple falls slower than yourself. You can also grapple to a wall/tower/tree while stomping someone so you dont completely touch the ground and you are safe from other enemy knights, this can also give you momentum to immediately get back up.
+You can stomp people by falling on top of them, which stuns them and does damage depending on your velocity (1 heart or 2 hearts). The grappling hook helps you to gain velocity you wouldn't have by normally jumping, this gets nullified at bigger fall distances as you will not have time to grapple down at the ground to get that extra momentum, because the grapple falls slower than yourself. You can also grapple to a wall/tower/tree while stomping someone so you don't completely touch the ground and you are safe from other enemy knights, this can also give you momentum to immediately get back up.
 
 [GIF 13 - 1 heart stomp no shield]
 
 [GIF 14 - 2 heart stomp no shield]
 
 [GIF 15 - gif of stomp and grapple to tree]
-
-[need gifs with failed stomps aswell]
 
 You can't stomp a knight that is shielding up, no matter the velocity.
 
@@ -128,7 +134,7 @@ Stomping is a good mechanic to get rid of enemy builders or archers that get too
 
 [GIF 16]
 
-Stomping is a good way to gain extra damage in TDM aswell, as the combat is much more compact than in CTF. 
+Stomping is a good way to gain extra damage in TDM aswell, as the combat is much more compact than in CTF. There will be more about stomping in the next chapter.
 
 ## Mobility
 
@@ -262,15 +268,13 @@ Aside from arrows, a good archer item is the boulder. Boulders can be used very 
 
 > Many people don't know that in TDM, bought boulders will never do damage to the team of the player who bought it. This causes many people to use the boulder and cripple themselves. This mechanic works like that only in TDM though, boulders in CTF will damage your team if the last person holding it was an enemy.
 
-Boulders can do 0.5, 1.5 and full health of damage, depending on the boulder's velocity. They sometimes bounce twice on an enemy head, which will add at least half a heart of damage. Below are some gifs demonstrating how boulders can be used in TDM.
+Boulders can do 0.5, 1.5 and full health of damage, depending on the boulder's velocity. They sometimes bounce twice on an enemy head, which will add at least half a heart of damage. Below are some gifs demonstrating how boulders can be used in TDM. Notice that we're using the grappling hook to gain additional velocity most of the time.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bouldercrush.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder3.webm" controls loop="loop" preload></video><br>
-
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder4.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder5.webm" controls loop="loop" preload></video><br>
 
