@@ -42,11 +42,15 @@ For example, if someone is trying to stomp you, you can crouch to avoid being hi
 
 (Don't really do this when knights want to stomp you -- they're likely to also slash at the same time, so it's mainly against archers and builders)
 
-Another cool mechanic is that you can grapple the ground while crouching, allowing you to go through enemies as long as you stay on the ground and don't use control keys (WASD), just using your grapple's momentum:
+Another cool mechanic is that you can grapple the ground while crouching, allowing you to go through enemies as long as you stay on the ground and don't use control keys (W/A/D), just using your grapple's momentum:
 
 [2]
 
-If a knight is trying to shieldbash you and quickly shield slides in your direction, you can also wait until he walks into you and then shoot him.
+After doing that, you can shoot enemies in their back. In the gif below, first we flick ourselves with our grappling hook then start holding S and letting go of other keys after hitting the ground while charging a halfshot at the same time.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/crouchpog2.webm" controls loop="loop" preload></video><br>
+
+If a knight is trying to shieldbash you and quickly shield slides in your direction, you can also wait until he walks into you and then shoot him. Hold S and hide the animation of crouching by charging an arrow.
 
 [3]
 
@@ -58,11 +62,13 @@ You can make a wooden block ledge (as a builder obviously) on the top of your to
 
 Make sure to not jump while doing this (or move in any direction) -- use your mouse (grapple) only. Jumping or moving for some reason makes you lose velocity in this situation. Start moving only after you're jumping off the platform.
 
-### Close archer combat
+### Close archer combat - fullshot + halfshot
 
-In close archer combat, you should always use half shots and sometimes quarter shots. However, in certain cases charging a full shot is also worth it -- you can to stun the enemy and then shoot them with a half shot, they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
+In close archer combat (when you're fighting against another archer), you should always use half shots and sometimes quarter shots. However, in certain cases charging a full shot is also worth it -- you can stun the enemy if you're close enough and then shoot them with a half shot -- they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
 
-[8]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/fullhalf.webm" controls loop="loop" preload></video><br>
+
+### Close archer combat - quartershots
 
 Spamming quartershots in close combat is not very effective since your shots have small velocity and do half a heart of damage. They can be good for making a barrier if the enemy will die trying to pass it. As mentioned earlier, best way to use them is by being above the enemy, and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity.
 
@@ -94,39 +100,41 @@ Enemy archers will sometimes try to hide behind knights' shields. You can try to
 
 ### Stomping aggressively
 
-If you're quick and fast enough, you can often stomp knights and archers when they don't expect it by using your grapple:
+If you're quick and fast enough, you can often stomp knights and archers when they don't expect it by using your grappling hook to gain additional velocity. Very good archers are able to stomp enemies (even charging knights) freely without getting hurt.
 
-[12.5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogstomp.webm" controls loop="loop" preload></video><br>
 
-There are also a lot of stomp + arrow combinations. Basically, if you know that you will stun someone by a stomp, it's good to charge an arrow -- sometimes a quartershot, sometimes even a halfshot.
+[GIF]
 
-[13]
+There are also some arrow + stomp combinations. You shoot a fullshot to stun a shielding knight first, and then stomp them (either due to height advantage or using your grappling hook for additional velocity)
 
-[14]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/stunstomp.webm" controls loop="loop" preload></video><br>
 
-Very good archers are able to stomp enemies (even charging knights) freely without getting hurt.
+Stomping and shooting a fullshot or a halfshot at enemy archers at the same time will kill them most of the time (1 heart from stomp, 1 heart from fullshot/halfshot, plus they're obviously not able to shield it).
 
-[15]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/archerkil.webm" controls loop="loop" preload></video><br>
 
 2 Heart stomps are difficult to do in close situations, but are very rewarding if you manage to do them.
 
+[GIF]
+
 You should either do this whenever the enemy is busy focusing on a teammate or inbetween their slashes, this is almost not worth doing if you are lagging since you won't be able to time the stomp perfectly.
 
-Another good trick is stomping someone and then shooting a triple shot.
+Another good trick is combining a triple shot (previously charged somewhere where you have height advantage) with a stomp.
 
 [15.5]
 
-Keep in mind that people can avoid getting stomped by crouching -- if some knight is not moving while you're on a tree, it's likely that he's trying to bait you while crouching.
+Keep in mind that people can avoid getting stomped by crouching -- if some knight is not moving while you're on a tree, it's likely that he's trying to bait you while crouching. However, shooting a fullshot will stun them, and since you're unable to crouch while stunned, you will be able to damage them with a stomp. 
 
 [16]
 
-Remember to keep in mind you can't stomp shielding knights at all.
+Remember to keep in mind you can't stomp shielding knights without stunning them with an arrow first -- just throwing yourself quickly at them won't do anything and will likely get you killed.
 
 ### Throwing back enemy bombs
 
-If enemy knights threw a bomb at you and you have enough time, you can try throwing it back:
+If enemy knights throw a bomb at you, you can try throwing it back if there's enough time for the bomb to not kill you.
 
-[17]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogthrow.webm" controls loop="loop" preload></video><br>
 
 ### Catching kegs
 
@@ -136,13 +144,17 @@ With fast enough reflexes you can catch kegs thrown at you.
 
 ### Baiting with a grapple
 
-If you're cornered by a knight, you can throw grapple (but not actually use it) to make the knight think you're going to grapple and try to go through them. This allows you to wait for a better opportunity to avoid them.
+If you're cornered by or just close to a knight, you can throw grapple but not actually use it to make the knight think you're going to grapple and try to go through them or jump at them. This will often cause them to start charging an attack or jab, allowing you quickly shoot them.
 
-[19]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/bait.webm" controls loop="loop" preload></video><br>
 
 It sometimes works against archers -- they shoot an arrow in where you would be if you have had grappled.
 
 [20]
+
+You can also grapple over the heads of enemy knights. They're likely to start charging a slash or try to jab when you do that, again giving you enough time to hit them with a halfshot
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/bait2.webm" controls loop="loop" preload></video><br>
 
 ### Shooting food to your teammates
 
