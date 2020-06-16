@@ -20,15 +20,21 @@ Charging a bow to do what is known as a 'full shot' takes a full second (30 tick
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fullshots.webm" controls loop="loop" preload></video><br>
 
-A fullshot deals 1 heart of damage and stuns the enemy for a short while if done in a close distance (if it's a shielding knight, it will stun them but not damage them).
+A fullshot deals 1 heart of damage and stuns the enemy for a short while if done in a close distance (if it's a shielding knight, it will stun them but not damage them). Fullshots don't stun the enemy if they're 6 or more blocks away.
 
-[GIF 2 - fullshot stun on shield, fullshot stun without shield, fullshot no stun]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dem3.webm" controls loop="loop" preload></video><br>
 
-You can use this to your advantage to, for example, stun gliding knights to make them fall into a pit.
+Fullshots are mostly used at longer distances where weaker shots aren't enough.
+
+[GIF]
+
+[GIF]
+
+[GIF]
+
+You can use fullshots to, for example, stun gliding knights to make them fall into a pit.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fstan.webm" controls loop="loop" preload></video><br>
-
-Fullshots don't stun the enemy if they're 6 or more blocks away.
 
 ### Half shot
 
@@ -36,15 +42,17 @@ Half shot requires charging for slightly more than half of the cursor -- the fin
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/halfshots.webm" controls loop="loop" preload></video><br>
 
-Quick halfshots are a significant amount of any good archer's kills, especially if fighting against other enemy archers at a distance.
+Quick halfshots are a significant amount of any good archer's kills, especially if fighting against other enemy archers at a mid range distance. They don't stun on close distance like full shots, have a lower velocity and travel less distance, but they do the same amount of damage -- 1 heart. You should use them at mid-range fights when supporting your knights as well -- they're the most useful shots most of the time.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/pagchamp.webm" controls loop="loop" preload></video><br>
 
-[more gifs here]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/half1.webm" controls loop="loop" preload></video><br>
 
-They don't stun on close distance like full shots, have a lower velocity and travel less distance, but they do the same amount of damage -- 1 heart. You should use them the most at mid-range fights and when supporting your knights -- they're the most useful shots most of the time.
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/half2.webm" controls loop="loop" preload></video><br>
 
-[more gifs]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/half3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/half4.webm" controls loop="loop" preload></video><br>
 
 Keep in mind that if you shoot a half shot and it hits the enemy that was far away, it's likely to lose some velocity along the way and do 0.5 heart of damage instead, like in the gif below (this can also happen to fullshots). This is because damage of arrows is dependent on their velocity when they hit somebody.
 
@@ -52,11 +60,11 @@ Keep in mind that if you shoot a half shot and it hits the enemy that was far aw
 
 There are also certain situations where a half shot can hit someone when a full shot wouldn't (arc shots).
 
-[GIF 5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/archalf.webm" controls loop="loop" preload></video><br>
 
 ### Quarter shot
 
-A quarter shot is the quickest shot. You need to charge it for only a short while (1/3 of a second) - you can release when the cursor reaches the first red dot. It does 0.5 heart of damage.
+A quarter shot is the quickest shot. You need to charge it for only a short while (1/3 of a second) -- you can release when the cursor reaches the first red dot. It does 0.5 heart of damage. Keep in mind that you can't just spam left click.
 
 [GIF 6]
 
@@ -66,11 +74,19 @@ If the arrow has time to gain velocity and you have significant height advantage
 
 [GIF 8]
 
+Quartershots can be used to finish low-health enemies as well.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/q1.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/q2.webm" controls loop="loop" preload></video><br>
+
 ### Triple shot
 
 Triple shot is the strongest attack. Requires charging for 2 seconds and shoots 3 arrows. The top and bottom arrows decay after a second or so, while the middle one has the velocity of a full charged shot and does not decay.
 
 [691]
+
+If triple shot is shot at a close distance, it does 2 hearts 
 
 It can kill archers or builders instantly if all the arrows hit.
 
@@ -86,11 +102,13 @@ Triple shot accelerates enemy kegs:
 
 ### Mixing different shots
 
-Good archers are able to freely mix different shot depending on the situation and distance between you and the enemy. Use fullshots for close-range stuns, halfshots for midrange, and fullshots again for long range. Try to be fast in order to surprise your enemy.
+Good archers are able to freely use different shots depending on the situation and distance between you and the enemy. Use fullshots for close-range stuns, halfshots for midrange, and fullshots again for long range. Try to be fast in order to surprise your enemy.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/wog.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/gud2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/uwu.webm" controls loop="loop" preload></video><br>
 
 Use the terrain to your advantage -- you have lots of time to charge your bow when behind cover.
 
@@ -112,7 +130,7 @@ While grappling trees for momentum, you shouldn't hold W in order to not slow yo
 
 [gif11.5]
 
-The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forwards, this is why spamming your grapple to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
+The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forward, this is why spamming your grapple to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
  
 [GIF 12]
 
@@ -130,17 +148,17 @@ However, you should keep in mind that you can't grapple while charging your bow.
 
 ### Stomping
 
-You can stomp people by falling on top of them, which stuns them and does damage depending on your velocity (1 heart or 2 hearts). The grappling hook helps you to gain velocity you wouldn't have by normally jumping, this gets nullified at bigger fall distances as you will not have time to grapple down at the ground to get that extra momentum, because the grapple falls slower than yourself. You can also grapple to a wall/tower/tree while stomping someone so you don't completely touch the ground and you are safe from other enemy knights, this can also give you momentum to immediately get back up.
+You can stomp people by falling on top of them, which stuns them and does damage depending on your velocity (1 heart or 2 hearts). The grappling hook helps you to gain velocity you wouldn't have by normally jumping, this gets nullified at bigger fall distances as you will not have time to grapple down at the ground to get that extra momentum, because the grapple falls slower than yourself. 
 
-[GIF 13 - 1 heart stomp no shield]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/stompg.webm" controls loop="loop" preload></video><br>
 
-[GIF 14 - 2 heart stomp no shield]
+You can also grapple to a wall/tower/tree while stomping someone so you don't completely touch the ground and you are safe from other enemy knights, this can also give you momentum to immediately get back up.
 
 [GIF 15 - gif of stomp and grapple to tree]
 
-You can't stomp a knight that is shielding up, no matter the velocity.
+You can't stomp a knight that is shielding up, regardless of velocity.
 
-[GIF ricardo]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/sadg4.webm" controls loop="loop" preload></video><br>
 
 Stomping is a good mechanic to get rid of enemy builders or archers that get too close to your base. 
 
@@ -162,13 +180,17 @@ You can swap arrows by holding F and selecting them in the menu, but the quickes
 
 Water arrows can extinguish fires or stun enemies for a while to gain extra time or make enemies defenseless against your teammates.
 
-[GIF extinguish fire]
+[gif fire extinguish]
 
-[GIF 17 stun]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/water1.webm" controls loop="loop" preload></video><br>
 
 A good tactic when using water is to stun enemies and then quickly halfshot or fullshot them before they get unstunned and can react. Can also use a fire or a bomb arrow instead of a normal halfshot.
 
-[gif 20]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/water2.webm" controls loop="loop" preload></video><br>
+
+Water arrows can also be combined with stomps.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/water4.webm" controls loop="loop" preload></video><br>
 
 You can use water arrows on knights that hold a bomb in their hand.
 
@@ -182,11 +204,19 @@ You can try to shoot a water arrow on flying knights after they bomb jumped, so 
 
 [gif of shooting water at flying dog]
 
-Keep in mind that the stun lasts less (50%) if the enemy had their shield up and even less if they had a sponge in inventory.
+Keep in mind that the stun lasts less (half of original duration) if the enemy had their shield up and even less if they had a sponge in inventory (1/3 of original duration).
 
-[GIF 18 - shield up]
+Shield up:
 
-[gif 19 - sponge]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/wat1.webm" controls loop="loop" preload></video><br>
+
+Sponge:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/wat2.webm" controls loop="loop" preload></video><br>
+
+Both (even shorter stun):
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/wat3.webm" controls loop="loop" preload></video><br>
 
 ### Fire arrows
 
