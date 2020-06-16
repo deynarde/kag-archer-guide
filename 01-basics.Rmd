@@ -20,13 +20,13 @@ Charging a bow to do what is known as a 'full shot' takes a full second (30 tick
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fullshots.webm" controls loop="loop" preload></video><br>
 
-A fullshot deals 1 heart of damage and stuns the enemy for a short while if done in a close distance (even if it's a shielding knight).
+A fullshot deals 1 heart of damage and stuns the enemy for a short while if done in a close distance (if it's a shielding knight, it will stun them but not damage them).
 
 [GIF 2 - fullshot stun on shield, fullshot stun without shield, fullshot no stun]
 
-You can use this to your advantage to, for example, stun enemies to make them fall off your tower:
+You can use this to your advantage to, for example, stun gliding knights to make them fall into a pit.
 
-[gif 2.5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fstan.webm" controls loop="loop" preload></video><br>
 
 Fullshots don't stun the enemy if they're 6 or more blocks away.
 
@@ -83,6 +83,18 @@ It's also a good way to get players knocked off a tower or into your teams knigh
 Triple shot accelerates enemy kegs:
 
 [695 keg on ground]
+
+### Mixing different shots
+
+Good archers are able to freely mix different shot depending on the situation and distance between you and the enemy. Use fullshots for close-range stuns, halfshots for midrange, and fullshots again for long range. Try to be fast in order to surprise your enemy.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/wog.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/gud2.webm" controls loop="loop" preload></video><br>
+
+Use the terrain to your advantage -- you have lots of time to charge your bow when behind cover.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/kinda3.webm" controls loop="loop" preload></video><br>
 
 ### Aiming into the direction you move
 
