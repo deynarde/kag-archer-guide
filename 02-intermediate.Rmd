@@ -120,11 +120,11 @@ Stomping and shooting a fullshot or a halfshot at enemy archers at the same time
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs2.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/a2hs2.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs3.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/a2hs3.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs4.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/a2hs4.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs5.webm" controls loop="loop" preload></video><br>
 
@@ -142,13 +142,13 @@ Remember to keep in mind you can't stomp shielding knights without stunning them
 
 You can also decide to not stomp them and just wait to get inside them first, and then shoot the arrow.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogthrow.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/teh.webm" controls loop="loop" preload></video><br>
 
 ### Throwing back enemy bombs
 
 If enemy knights throw a bomb at you, you can try throwing it back if there's enough time for the bomb to not kill you.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/teh.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogthrow.webm" controls loop="loop" preload></video><br>
 
 ### Catching kegs
 
