@@ -82,11 +82,13 @@ Quartershots can be used to finish low-health enemies as well.
 
 ### Triple shot
 
-Triple shot is the strongest attack. Requires charging for 2 seconds and shoots 3 arrows. The top and bottom arrows decay after a second or so, while the middle one has the velocity of a full charged shot and does not decay.
+Triple shot is the strongest attack. Requires charging for 2 seconds, shoots 3 arrows on release. The top and bottom arrows decay after a second or so, while the middle one has the velocity of a full charged shot and does not decay.
 
 [691]
 
-If triple shot is shot at a close distance, it does 2 hearts 
+If you triple shot a shielding knight, the middle arrow will stun them and the other arrows will do a heart of damage each, dealing a total of 2 hearts of damage.
+
+[GIF]
 
 It can kill archers or builders instantly if all the arrows hit.
 
