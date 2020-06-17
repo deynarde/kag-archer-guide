@@ -22,7 +22,7 @@ Charging a bow to do what is known as a 'full shot' takes a full second (30 tick
 
 A fullshot deals 1 heart of damage and stuns the enemy for a short while if done in a close distance (if it's a shielding knight, it will stun them but not damage them). Fullshots don't stun the enemy if they're 6 or more blocks away.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dem3.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dem4.webm" controls loop="loop" preload></video><br>
 
 Fullshots are mostly used at longer distances where weaker shots aren't enough.
 
@@ -184,7 +184,7 @@ Water arrows can extinguish fires or stun enemies for a while to gain extra time
 
 [gif fire extinguish]
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/water1.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/water45.webm" controls loop="loop" preload></video><br>
 
 A good tactic when using water is to stun enemies and then quickly halfshot or fullshot them before they get unstunned and can react. Can also use a fire or a bomb arrow instead of a normal halfshot.
 
