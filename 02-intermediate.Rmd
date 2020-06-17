@@ -54,14 +54,6 @@ If a knight is trying to shieldbash you and quickly shield slides in your direct
 
 [3]
 
-### Grappling platforms
-
-You can make a wooden block ledge (as a builder obviously) on the top of your tower with platforms facing downwards like on the gif below. Grappling platforms like that lets you gain high velocity which can be used to reaching the enemy base.
-
-[7]
-
-Make sure to not jump while doing this (or move in any direction) -- use your mouse (grapple) only. Jumping or moving for some reason makes you lose velocity in this situation. Start moving only after you're jumping off the platform.
-
 ### Close archer combat - fullshot + halfshot
 
 In close archer combat (when you're fighting against another archer), you should always use half shots and sometimes quarter shots. However, in certain cases charging a full shot is also worth it -- you can stun the enemy if you're close enough and then shoot them with a half shot -- they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
@@ -80,9 +72,9 @@ Quartershots, however, are quite good for finishing off people with only half a 
 
 ### Fullshot + quartershot combo on shielding knight
 
-You can stun a shielding knight with a fullshot and then quartershot him right after that to guarantee a 0.5 heart hit.
+You can stun a shielding knight with a fullshot and then quickly quartershot them when they're still stunned right after that to guarantee a half a heart hit.
 
-[11]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/hehe.webm" controls loop="loop" preload></video><br>
 
 ### Fullshot + grappling someone into a pit
 
@@ -104,7 +96,9 @@ If you're quick and fast enough, you can often stomp knights and archers when th
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogstomp.webm" controls loop="loop" preload></video><br>
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/st1.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/valorant.webm" controls loop="loop" preload></video><br>
 
 There are also some arrow + stomp combinations. You shoot a fullshot to stun a shielding knight first, and then stomp them (either due to height advantage or using your grappling hook for additional velocity)
 
@@ -114,9 +108,25 @@ Stomping and shooting a fullshot or a halfshot at enemy archers at the same time
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/archerkil.webm" controls loop="loop" preload></video><br>
 
-2 Heart stomps are difficult to do in close situations, but are very rewarding if you manage to do them.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/star1.webm" controls loop="loop" preload></video><br>
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/star2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/star3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/star4.webm" controls loop="loop" preload></video><br>
+
+2 Heart stomps are difficult to pull off, but are very rewarding if you manage to do them. You need to be able to use your grappling hook to get lots of velocity and/or significant height advantage.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs4.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs5.webm" controls loop="loop" preload></video><br>
 
 You should either do this whenever the enemy is busy focusing on a teammate or inbetween their slashes, this is almost not worth doing if you are lagging since you won't be able to time the stomp perfectly.
 
@@ -124,17 +134,21 @@ Another good trick is combining a triple shot (previously charged somewhere wher
 
 [15.5]
 
-Keep in mind that people can avoid getting stomped by crouching -- if some knight is not moving while you're on a tree, it's likely that he's trying to bait you while crouching. However, shooting a fullshot will stun them, and since you're unable to crouch while stunned, you will be able to damage them with a stomp. 
+Keep in mind that people can avoid getting stomped by crouching -- if some knight is not moving while you're falling on them, it's likely that he's trying to bait you while crouching. However, shooting a fullshot will stun them, and since you're unable to crouch while stunned, you will be able to damage them with a stomp. 
 
 [16]
 
-Remember to keep in mind you can't stomp shielding knights without stunning them with an arrow first -- just throwing yourself quickly at them won't do anything and will likely get you killed.
+Remember to keep in mind you can't stomp shielding knights without stunning them with an arrow first -- just throwing yourself at them won't do anything and will likely get you killed.
+
+You can also decide to not stomp them and just wait to get inside them first, and then shoot the arrow.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogthrow.webm" controls loop="loop" preload></video><br>
 
 ### Throwing back enemy bombs
 
 If enemy knights throw a bomb at you, you can try throwing it back if there's enough time for the bomb to not kill you.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogthrow.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/teh.webm" controls loop="loop" preload></video><br>
 
 ### Catching kegs
 
@@ -164,21 +178,21 @@ Rarely useful, but a fun trick if you manage to do it -- you can shoot an arrow 
 
 ### Shooting off and lighting kegs from enemy knights' backs
 
-If you shoot at the keg of an enemy, they drop the keg.
+If you shoot at the keg of an enemy, regardless of whether it's lit or not, they drop the keg. After picking up the keg, you can also use your grappling hook to get enough velocity and instantly explode the keg, killing enemies in the process.
 
-[22]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kegsteal.webm" controls loop="loop" preload></video><br>
 
-If there's a knight with a keg on their back coming to you, you can try to crouch+grapple through him and shoot an arrow on the keg and then pick it up.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kegsteal2.webm" controls loop="loop" preload></video><br>
+
+If there's a knight with a keg on their back coming to you, you can try to crouch + grapple through him and shoot an arrow on the keg and then pick it up.
 
 [23]
-
-Keep in mind, in some cases you don't need to shoot exactly at the keg to make it drop.
 
 If the enemy has his shield up, and you're close enough (less than around 10 blocks), just shooting at the shield will make the keg fall.
 
 [24]
 
-If the enemy is a bit far away, shooting at the shield won't do anything to the keg.
+If the enemy is a bit more far away, shooting at the shield won't do anything to the keg.
 
 [25]
 
@@ -206,7 +220,7 @@ If you shoot at the block below grain, you will be able to pick up the grain and
 
 While most of what was mentioned earlier applies to all gamemodes, there's some CTF-specific stuff that you should also know.
 
-### Damaging siege (without items)
+### Damaging siege (without special arrows)
 
 Shooting catapults or ballistas when they still have wheels attached makes them move. In some cases you can make a catapult or a ballista fall over, damaging it greatly.
 
@@ -237,3 +251,11 @@ If the enemy flag doesn't have many defences, you could sneak to the enemy flagr
 Doors have slightly larger hitbox than normal blocks, which makes them a "magnet" to arrows sometimes. Shooting in a hole between doors is much harder and requires more precision than if you were shooting in a hole between normal blocks (stone blocks)
 
 [85]
+
+### Grappling platforms
+
+You can make a wooden block ledge (as a builder obviously) on the top of your tower with platforms facing downwards like on the gif below. Grappling platforms like that lets you gain high velocity which can be used to reaching the enemy base.
+
+[7]
+
+Make sure to not jump while doing this (or move in any direction) -- use your mouse (grapple) only. Jumping or moving for some reason makes you lose velocity in this situation. Start moving only after jumping off the platform.
