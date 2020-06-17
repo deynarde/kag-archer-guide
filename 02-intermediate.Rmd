@@ -140,7 +140,7 @@ Keep in mind that people can avoid getting stomped by crouching -- if some knigh
 
 Remember to keep in mind you can't stomp shielding knights without stunning them with an arrow first -- just throwing yourself at them won't do anything and will likely get you killed.
 
-You can also decide to not stomp them and just wait to get inside them first, and then shoot the arrow.
+Keep in mind that knights can crouch while shielding as well. In this case, you can also decide to not stomp them and just wait to get inside them first, and then shoot an arrow.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/teh.webm" controls loop="loop" preload></video><br>
 
