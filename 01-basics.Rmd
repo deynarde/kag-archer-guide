@@ -104,8 +104,6 @@ Triple shot accelerates enemy kegs:
 
 Good archers are able to freely use different shots depending on the situation and distance between you and the enemy. Use fullshots for close-range stuns, halfshots for midrange, and fullshots again for long range. Try to be fast in order to surprise your enemy.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/wog.webm" controls loop="loop" preload></video><br>
-
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/gud2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/uwu.webm" controls loop="loop" preload></video><br>
