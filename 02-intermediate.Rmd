@@ -158,7 +158,7 @@ With fast enough reflexes you can catch kegs thrown at you.
 
 ### Baiting with a grapple
 
-If you're cornered by or just close to a knight, you can throw grapple but not actually use it to make the knight think you're going to grapple and try to go through them or jump at them. This will often cause them to start charging an attack or jab, allowing you quickly shoot them.
+If you're cornered by or just close to a knight, you can throw grapple but not actually use it to make the knight think you're going to grapple and try to go through them or jump at them. This will often cause them to start charging an attack or jab, allowing you to quickly shoot them.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/bait.webm" controls loop="loop" preload></video><br>
 
