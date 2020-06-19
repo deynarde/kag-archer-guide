@@ -88,17 +88,21 @@ If you triple shot a shielding knight, the middle arrow will stun them and the o
 
 [GIF]
 
-It can kill archers or builders instantly if all the arrows hit.
+It can kill full-health archers or builders instantly if all the arrows hit (or just 2 for enemy archers).
 
-[692]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/iksde.webm" controls loop="loop" preload></video><br>
 
-It's also a good way to get players knocked off a tower or into your teams knights/mine.
+Triple shots can often be charged while behind cover (for example team doors), and then only be shot after peeking out with a full or almost full charge.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/ebh.webm" controls loop="loop" preload></video><br>
+
+Triple shots are also a good way to get players knocked off a tower or into your teams knights/mine.
 
 [694]
 
 Triple shot accelerates enemy kegs:
 
-[695 keg on ground]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/3x1.webm" controls loop="loop" preload></video><br>
 
 ### Mixing different shots
 
@@ -150,6 +154,8 @@ You can stomp people by falling on top of them, which stuns them and does damage
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/stompg.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/jusi.webm" controls loop="loop" preload></video><br>
+
 You can also grapple to a wall/tower/tree while stomping someone so you don't completely touch the ground and you are safe from other enemy knights, this can also give you momentum to immediately get back up.
 
 [GIF 15 - gif of stomp and grapple to tree]
@@ -176,9 +182,13 @@ You can swap arrows by holding F and selecting them in the menu, but the quickes
 
 ### Water arrows
 
-Water arrows can extinguish fires or stun enemies for a while to gain extra time or make enemies defenseless against your teammates.
+Water arrows can extinguish fires (both on teammates or enemies) or stun enemies (they don't stun teammates) for a while to gain extra time or make enemies defenseless against your teammates.
 
-[gif fire extinguish]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/extfr.webm" controls loop="loop" preload></video><br>
+
+As you can see in the gif above, you can extinguish a fire arrow before the fire even starts spreading (first water arrow I use).
+
+Stunning enemies:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/water45.webm" controls loop="loop" preload></video><br>
 
