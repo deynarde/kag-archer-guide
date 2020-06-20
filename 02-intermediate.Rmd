@@ -16,9 +16,11 @@ There are 2 kinds of cameras in KAG - unfixed camera and fixed (this can be chan
 
 You can easily get momentum for your grapple by throwing it as far as you can and having a block stop you from going to it, then jump.
 
-The main point of this is to be able to charge your bow before jumping -- you can't charge while grappling something, as mentioned in the first chapter, so you need to grapple first, then charge, then jump.
+The main point of this is to be able to charge your bow before jumping -- you can't charge while grappling something, as mentioned in the first chapter, so you need to grapple first, then charge, then jump and release the arrow at the right time.
 
 [4]
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom1.webm" controls loop="loop" preload></video><br>
 
 If the block stopping you is 2 blocks high, you can shoot an arrow on the higher block so you climb the arrow and then jump over
 
@@ -56,15 +58,23 @@ If a knight is trying to shieldbash you and quickly shield slides in your direct
 
 ### Close archer combat - fullshot + halfshot
 
-In close archer combat (when you're fighting against another archer), you should always use half shots and sometimes quarter shots. However, in certain cases charging a full shot is also worth it -- you can stun the enemy if you're close enough and then shoot them with a half shot -- they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
+In close archer combat, whenever you're fighting against another archer, you should often try to stun them with a full shot -- they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/fullhalf.webm" controls loop="loop" preload></video><br>
 
+In the gif below, we use the arrow in the wall to get closer to the archer so that the fullshot would stun them, then finish them with a halfshot.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/t3d.webm" controls loop="loop" preload></video><br>
+
 ### Close archer combat - quartershots
 
-Spamming quartershots in close combat is not very effective since your shots have small velocity and do half a heart of damage. They can be good for making a barrier if the enemy will die trying to pass it. As mentioned earlier, best way to use them is by having significant height advantage over the enemy, and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity.
+Spamming quartershots in close combat is not very effective since THEY have small velocity and do ONLY half a heart of damage. As mentioned earlier, best way to use them is by having significant height advantage over the enemy, and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity.
 
 [9]
+
+Another good way is when you're escaping from an enemy knight that is constantly trying to attack. You should shoot them slightly upwards so they hit the enemy right as they get close close.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/hfesc.webm" controls loop="loop" preload></video><br>
 
 Quartershots, as mentioned in the previous chapter, are also quite good for finishing off people with only half a heart.
 
@@ -75,6 +85,14 @@ Quartershots, as mentioned in the previous chapter, are also quite good for fini
 In situations like in the gifs below, you're able to charge a triple shot, fall down slightly, release it to kill the archer then quickly grapple right back to not fall.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/3xd.webm" controls loop="loop" preload></video><br>
+
+### Baiting knights + triple shot
+
+Letting the enemy get close to you right before finishing charging a triple shot is a good way to surprise them and deal damage.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/trd.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pug.webm" controls loop="loop" preload></video><br>
 
 ### Fullshot + quartershot combo on shielding knight
 
@@ -106,6 +124,8 @@ If you're quick and fast enough, you can often stomp knights and archers when th
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/valorant.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pagkat.webm" controls loop="loop" preload></video><br>
+
 There are also some arrow + stomp combinations. You shoot a fullshot to stun a shielding knight first, and then stomp them (either due to height advantage or using your grappling hook for additional velocity)
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/stunstomp.webm" controls loop="loop" preload></video><br>
@@ -134,6 +154,10 @@ Stomping and shooting a fullshot or a halfshot at enemy archers at the same time
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/2hs5.webm" controls loop="loop" preload></video><br>
 
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/3hs2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cries.webm" controls loop="loop" preload></video><br>
+
 You should either do this whenever the enemy is busy focusing on a teammate or inbetween their slashes, this is almost not worth doing if you are lagging since you won't be able to time the stomp perfectly.
 
 Another good trick is combining a triple shot (previously charged somewhere where you have height advantage) with a stomp.
@@ -144,9 +168,9 @@ Keep in mind that people can avoid getting stomped by crouching -- if some knigh
 
 [16]
 
-Remember to keep in mind you can't stomp shielding knights without stunning them with an arrow first -- just throwing yourself at them won't do anything and will likely get you killed.
+You can't stomp shielding knights without stunning them with an arrow first -- just throwing yourself at them won't do anything and will likely get you killed.
 
-Keep in mind that knights can crouch while shielding as well. In this case, you can also decide to not stomp them and just wait to get inside them first, and then shoot an arrow.
+However, you can also decide not to stomp -- just wait to get inside them first, and then shoot an arrow. You will do a heart of damage again.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/teh.webm" controls loop="loop" preload></video><br>
 
@@ -178,9 +202,9 @@ You can also grapple over the heads of enemy knights. They're likely to start ch
 
 ### Shooting food to your teammates
 
-Rarely useful, but a fun trick if you manage to do it -- you can shoot an arrow right after throwing a burger (or a dead fish) to make the burger gain high velocity.
+Rarely useful, but a fun trick if you manage to do it -- you can shoot an arrow right after throwing a burger (or a dead fish, or any other food item) to make the burger gain high velocity.
 
-[21]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/shutfud.webm" controls loop="loop" preload></video><br>
 
 ### Shooting off and lighting kegs from enemy knights' backs
 
@@ -202,7 +226,7 @@ If the enemy is a bit more far away, shooting at the shield won't do anything to
 
 [25]
 
-It works the same with lighting enemy kegs by fire arrows - if he's close to you, shooting a fire arrow just at the shield will light the keg, but if he's a bit more far away, it won't.
+It works the same with lighting enemy kegs by fire arrows -- if he's close to you, shooting a fire arrow just at the shield will light the keg, but if he's a bit more far away, it won't.
 
 [26]
 
@@ -248,9 +272,13 @@ Although this is fairly obvious, many archers just ignore mats laying around on 
 
 ### Stealing the flag
 
-If the enemy flag doesn't have many defences, you could sneak to the enemy flagroom with a couple bomb arrows (usually 3 or 4) and steal the flag.
+If the enemy flag has sparse defences, you could sneak to the enemy flagroom with a couple bomb arrows (usually 3 or 4) and steal the flag.
 
-[88]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/flag.webm" controls loop="loop" preload></video><br>
+
+Another thing worth knowing when trying to steal enemy flag is that you can't actually instantly kill yourself with a bomb arrow if you're on full health -- even if you shoot it right next to you, it will do no more than 1.5 hearts of damage to you.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/d2.webm" controls loop="loop" preload></video><br>
 
 ### Doors have weird hitbox
 
