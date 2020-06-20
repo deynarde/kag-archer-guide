@@ -44,6 +44,8 @@ Half shot requires charging for slightly more than half of the cursor -- the fin
 
 Quick halfshots are a significant amount of any good archer's kills, especially if fighting against other enemy archers at a mid range distance. They don't stun on close distance like full shots, have a lower velocity and travel less distance, but they do the same amount of damage -- 1 heart. You should use them at mid-range fights when supporting your knights as well -- they're the most useful shots most of the time.
 
+Some examples of using halfshots below:
+
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/pagchamp.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/half2.webm" controls loop="loop" preload></video><br>
@@ -52,7 +54,9 @@ Quick halfshots are a significant amount of any good archer's kills, especially 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/half4.webm" controls loop="loop" preload></video><br>
 
-Keep in mind that if you shoot a half shot and it hits the enemy that was far away, it's likely to lose some velocity along the way and do 0.5 heart of damage instead, like in the gif below (this can also happen to fullshots). This is because damage of arrows is dependent on their velocity when they hit somebody.
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/hf2.webm" controls loop="loop" preload></video><br>
+
+Keep in mind that if you shoot a half shot and it hits the enemy that was far away, it's likely to lose some velocity along the way and do 0.5 heart of damage instead, like in the gif below (this can also happen to fullshots). This is because damage of arrows is dependent on their velocity when they hit somebody. This usually happens whenever you halfshot an archer camping with significant height advantage.
 
 [GIF 4 - 0.5 heart]
 
@@ -62,11 +66,11 @@ There are also certain situations where a half shot can hit someone when a full 
 
 ### Quarter shot
 
-A quarter shot is the quickest shot. You need to charge it for only a short while (1/3 of a second) -- you can release when the cursor reaches the first red dot. It does 0.5 heart of damage. Keep in mind that you can't just spam left click.
+A quarter shot is the quickest shot. You need to charge it for only a short while (1/3 of a second) -- you can release when the cursor reaches the first red dot. It does 0.5 heart of damage. Keep in mind that you can't just spam them by rapidly clicking left click -- your bow won't shoot anything until the cursor reaches the first red dot.
 
-[GIF 6]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/q5.webm" controls loop="loop" preload></video><br>
 
-If the arrow has time to gain velocity and you have significant height advantage, it can also do 1 heart of damage. It's a good tactic to spam quarter shots from your tower in CTF when there are lots of enemies below.
+If the arrow has time to gain velocity and you have a bit of height advantage, it can also do 1 heart of damage. It's a good tactic to spam quarter shots from your tower in CTF when there are lots of enemies below.
 
 [GIF 7]
 
@@ -96,7 +100,7 @@ Triple shots can often be charged while behind cover (for example team doors), a
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/ebh.webm" controls loop="loop" preload></video><br>
 
-Triple shots are also a good way to get players knocked off a tower or into your teams knights/mine.
+Since triple shots knock enemies back slightly when shot from a close distance, they are also a good way to get players knocked off a tower or into your teammate knights or team mines.
 
 [694]
 
@@ -120,17 +124,19 @@ Use the terrain to your advantage -- you have lots of time to charge your bow wh
 
 You should almost always aim in the direction you're moving to -- all classes in KAG move faster when moving towards the way they're looking at (the cursor's direction, either left or right). When retreating, you shouldn't move backwards while shooting the other direction -- this is one of the most common mistakes for new archer players. Don't do this -- just look away from the enemy while escaping, and then look back at them only when your bow is already charged.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/looking.webm" controls loop="loop" preload></video><br>
 
 ### Grappling
 
 The grappling hook gives archer the most mobility out of all three classes, making archer the most mobile class in combat situations. It can give you speed that can be used in many situations, like stealing the flag, someones dropped items, climbing a tower and harassing the enemy builder, or just going through the map fast.
 
-[GIF 11 - going through the map fast with using grappling hook]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/quickmove.webm" controls loop="loop" preload></video><br
 
-While grappling trees for momentum, you shouldn't hold W in order to not slow yourself down by climbing the trees.
+As you can see in the gif above, you should move back slightly every time after throwing your grappling hook on ground. This will cause the grapple to throw you further when you'll start moving forward. Jumping at the right time also gives you additional velocity. All of this is done instinctively by experienced archers -- just practice grappling until it feels natural to you.
 
-[gif11.5]
+While flicking yourself through trees with the grappling hook, you shouldn't hold W in order to not slow yourself down by climbing the trees. First flick attempt in the gif below is done with holding W during the flick, second attempt -- without.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/ricardo.webm" controls loop="loop" preload></video><br
 
 The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forward, this is why spamming your grapple to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
  
@@ -145,6 +151,8 @@ You can often dodge enemy bombs, arrows, or avoid enemies themselves by using yo
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dodg2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dodg3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dg1.webm" controls loop="loop" preload></video><br>
 
 However, you should keep in mind that you can't grapple while charging your bow. You can only first grapple, and then start charging an arrow, but you can't re-grapple while charging.
 
@@ -163,10 +171,6 @@ You can also grapple to a wall/tower/tree while stomping someone so you don't co
 You can't stomp a knight that is shielding up, regardless of velocity.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/sadg4.webm" controls loop="loop" preload></video><br>
-
-Stomping is a good mechanic to get rid of enemy builders or archers that get too close to your base. 
-
-[GIF 16]
 
 Stomping is a good way to gain extra damage in TDM aswell, as the combat is much more compact than in CTF. There will be more about stomping in the next chapter.
 
@@ -290,21 +294,15 @@ One bomb arrow kills a catapult, and two bomb arrows kill a ballista, so wheneve
 
 [another giffo]
 
-Bomb arrows are also very good for damaging spike traps - they destroy a lot of spikes in one shot.
+Bomb arrows are also very good for damaging spike traps -- they destroy a lot of spikes in one shot. Trap bridges are weak against bomb arrows as well.
 
-[another giffo of bomb arrow on spikes]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/wiecz.webm" controls loop="loop" preload></video><br>
 
-They also deal more damage to platforms like in the gif below.
+As you can see, platforms are a bit more resistant to bomb arrows than other blocks.
 
-[gif of shooting bomb arrow on platforms]
+However, if you shoot a bomb arrow at a stone wall, with platforms behind that wall, they also get slightly damaged:
 
-If you shoot a bomb arrow at a stone wall, with platforms facing your way behind that wall, they also get damaged:
-
-[pepegahammer]
-
-However, if the platforms are faced the opposite way, they only destroy one platform -- as in gif below.
-
-[gif of shooting bomb arrows on opposite platforms]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/d1.webm" controls loop="loop" preload></video><br>
 
 You can destroy a lot of enemy doors if there's an enemy standing in them:
 
@@ -331,6 +329,8 @@ Boulders can do 0.5, 1.5 and full health of damage, depending on the boulder's v
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder6.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder7.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boldar.webm" controls loop="loop" preload></video><br>
 
 ## Learning & playing as a beginner
 
