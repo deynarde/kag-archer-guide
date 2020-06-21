@@ -142,11 +142,11 @@ While flicking yourself through trees with the grappling hook, you shouldn't hol
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/ricardo.webm" controls loop="loop" preload></video><br>
 
-The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forward, this is why spamming your grapple to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
+The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forward, this is why spamming your grappling hook to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
  
-[GIF 12]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fstan.webm" controls loop="loop" preload></video><br>
 
-The mobility you have thanks to the grappling hook is a major reason why archer is the most fun class to play for some. 
+The mobility you have thanks to the grappling hook is a major reason why archer is the most fun class to play for majority of its main players. 
 
 You can often dodge enemy bombs, arrows, or avoid enemies themselves by using your grappling hook.
 
@@ -234,7 +234,7 @@ Both (even shorter stun):
 
 Fire arrows can burn wooden structures or enemy players to make them run towards their cursors' direction. This means that the shot will deal them 1 heart of damage, and the fire will deal them 0.25 hearts of damage each second for 4 seconds (so up to 2 hearts). Whenever somebody is on fire, their character always moves forward in the direction they're looking (have their cursor).
 
-[GIF 21 - burning wooden structures]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/firear.webm" controls loop="loop" preload></video><br>
 
 [GIF 22 - burning player]
 
@@ -292,11 +292,15 @@ Using bomb arrows to collapse structures on enemies:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bar8.webm" controls loop="loop" preload></video><br>
 
+Using bomb arrows to damage enemy structures in CTF:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/barpog.webm" controls loop="loop" preload></video><br>
+
 [GIF 25 - bomb arrow flag room]
 
 [GIF 26 - bomb arrow collapse]
 
-One bomb arrow kills a catapult, and two bomb arrows kill a ballista, so whenever you see enemy siege vehicles, you should bomb arrow them -- this will significantly help your team.
+One bomb arrow destroys a catapult, and two bomb arrows destroy a ballista, so whenever you see enemy siege vehicles, you should bomb arrow them -- this will significantly help your team.
 
 [another giffo]
 
