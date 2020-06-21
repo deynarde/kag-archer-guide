@@ -256,9 +256,9 @@ Shooting catapults or ballistas when they still have wheels attached makes them 
 
 [86]
 
-If you manage to get right next to an enemy catapult on top of a tower, you can shoot it with a triple shot at the correct angle to move it:
+If you manage to get right next to an enemy catapult, you can shoot it with a triple shot at the correct angle to move it, even if it doesn't have wheels attached:
 
-[87]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/rick.webm" controls loop="loop" preload></video><br>
 
 Although if you get to an enemy ballista, you should probably just swap class to knight or builder:
 
