@@ -24,11 +24,11 @@ A fullshot deals 1 heart of damage and stuns the enemy for a short while if done
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dem4.webm" controls loop="loop" preload></video><br>
 
-Fullshots are also used at longer distances that halfshots wouldn't reach.
+Fullshots are obviously also used at longer distances that halfshots wouldn't reach.
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/sf.webm" controls loop="loop" preload></video><br>
 
-[GIF]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fs2.webm" controls loop="loop" preload></video><br>
 
 You can use fullshots to, for example, stun gliding knights to make them fall into a pit.
 
@@ -88,9 +88,9 @@ Quartershots can be used to finish low-health enemies as well.
 
 Triple shot is the strongest attack. Requires charging for 2 seconds, shoots 3 arrows on release. The top and bottom arrows decay after a second or so, while the middle one has the velocity of a full charged shot and does not decay.
 
-[691]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/kjeg2.webm" controls loop="loop" preload></video><br>
 
-If you triple shot a shielding knight, the middle arrow will stun them and the other arrows will do a heart of damage each, dealing a total of 2 hearts of damage.
+If you triple shot a shielding knight from close distance, the middle arrow will stun them and the other arrows will do a heart of damage each, dealing a total of 2 hearts of damage.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/iksda.webm" controls loop="loop" preload></video><br>
 
@@ -236,7 +236,9 @@ Fire arrows can burn wooden structures or enemy players to make them run towards
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/firear.webm" controls loop="loop" preload></video><br>
 
-[GIF 22 - burning player]
+Using a fire arrow on an enemy archer will often kill them (as long as they don't have water or any way to heal themselves).
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fajer.webm" controls loop="loop" preload></video><br>
 
 Fire arrows shot at enemy kegs will make them catch fire which will ignite them. Lit kegs can be extinguished with a water bucket only, so be careful if your team has kegs stored up in CTF. 
 
