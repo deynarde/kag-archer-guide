@@ -14,23 +14,35 @@ There are 2 kinds of cameras in KAG - unfixed camera and fixed (this can be chan
 
 ### Momentum jump
 
-You can easily get momentum for your grapple by throwing it as far as you can and having a block stop you from going to it, then jump.
+Momentum jumps are when you use your grapple to gain high velocity and combining it with shooting at the enemy.
 
-The main point of this is to be able to charge your bow before jumping -- you can't charge while grappling something, as mentioned in the first chapter, so you need to grapple first, then charge, then jump and release the arrow at the right time.
+One way to easily get momentum for your grapple by throwing it as far as you can and having a block stop you from going to it, then jump.
 
-[4]
+The main point of this is to be able to charge your bow before jumping -- you can't charge while grappling something, as mentioned in the first chapter, so you need to grapple first, then charge, then jump and release the arrow at the right time. It's mostly used to surprise enemies.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom1.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom4.webm" controls loop="loop" preload></video><br>
 
 If the block stopping you is 2 blocks high, you can shoot an arrow on the higher block so you climb the arrow and then jump over
 
 [5]
 
-In some cases, you can do a momentum jump without a stopping block, but this means you don't have as much time to charge your bow -- although you still can just quartershot someone, or even halfshot in some cases.
+You can do a momentum jump without a stopping block too (just throw your grapple, then slightly move back, then pull yourself and jump), but this means you don't have as much time to charge your bow -- although you still can just quartershot someone, or even halfshot in some cases.
 
-[pepega]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mam2.webm" controls loop="loop" preload></video><br>
 
-[5.5halfshot]
+[gif halfshot]
+
+Momentum jumps are also often combined with stomping.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom3.webm" controls loop="loop" preload></video><br>
+
+A bit more complex momentum jump -- first we shoot a quartershot water arrow to stun the archer with a boulder after momentum jumping, then we keep using our grapple to gain velocity again and stomp the other camping archer.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom567.webm" controls loop="loop" preload></video><br>
 
 ### Crouching
 
@@ -208,27 +220,23 @@ Rarely useful, but a fun trick if you manage to do it -- you can shoot an arrow 
 
 ### Shooting off and lighting kegs from enemy knights' backs
 
-If you shoot at the keg of an enemy, regardless of whether it's lit or not, they drop the keg. After picking up the keg, you can also use your grappling hook to get enough velocity and instantly explode the keg, killing enemies in the process.
+If you shoot at the keg of an enemy (and not at the enemy itself), regardless of whether it's lit or not, they drop the keg. After picking up the keg, you can also use your grappling hook to get enough velocity and instantly explode the keg, killing enemies in the process.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kegsteal.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kegsteal2.webm" controls loop="loop" preload></video><br>
 
-If there's a knight with a keg on their back coming to you, you can try to crouch + grapple through him and shoot an arrow on the keg and then pick it up.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/ks1.webm" controls loop="loop" preload></video><br>
+
+If there's a knight with a keg on their back coming to yo, you can try to crouch + grapple through him and shoot an arrow on the keg and then pick it up.
 
 [23]
 
-If the enemy has his shield up, and you're close enough (less than around 10 blocks), just shooting at the shield will make the keg fall.
+If the enemy has his shield up, and you're close enough (less than around 10 blocks), sometimes (although not always -- this seems to be somewhat random, regardless of distance or type of arrow) shooting at the shield will make the keg fall. However, the most reliable way is to just shoot at the head whenever the enemy is shielding.
 
 [24]
 
-If the enemy is a bit more far away, shooting at the shield won't do anything to the keg.
-
-[25]
-
-It works the same with lighting enemy kegs by fire arrows -- if he's close to you, shooting a fire arrow just at the shield will light the keg, but if he's a bit more far away, it won't.
-
-[26]
+It works the same with lighting enemy kegs by fire arrows -- if the enemy is shielding, it may or may not prevent the keg from falling. Again, best way is to just aim at the head, or just at the keg itself.
 
 [27]
 
