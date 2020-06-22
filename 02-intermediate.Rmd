@@ -26,9 +26,9 @@ The main point of this is to be able to charge your bow before jumping -- you ca
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom4.webm" controls loop="loop" preload></video><br>
 
-If the block stopping you is 2 blocks high, you can shoot an arrow on the higher block so you climb the arrow and then jump over
+This also works when stopped by 2 blocks.
 
-[5]
+[gif]
 
 You can do a momentum jump without a stopping block too (just throw your grapple, then slightly move back, then pull yourself and jump), but this means you don't have as much time to charge your bow -- although you still can just quartershot someone, or even halfshot in some cases.
 
@@ -42,7 +42,7 @@ Momentum jumps are also often combined with stomping.
 
 A bit more complex momentum jump -- first we shoot a quartershot water arrow to stun the archer with a boulder after momentum jumping, then we keep using our grapple to gain velocity again and stomp the other camping archer.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom567.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/mom567.webm" controls loop="loop" preload></video><br>
 
 ### Crouching
 
@@ -54,7 +54,9 @@ For example, if someone is trying to stomp you, you can crouch to avoid being hi
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/sadeg3.webm" controls loop="loop" preload></video><br>
 
-This is mostly done against builders and archers. Knights can sometimes combine stomping with slashing on lesser distances, which crouching won't counter. However, if the distance is big enough like in the gif above, they may try to stomp with their shield down (to not die from the fall damage caused by additional velocity from slashing), in which case this is still viable.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/avoid.webm" controls loop="loop" preload></video><br>
+
+This is mostly done against builders and archers. Knights can sometimes combine stomping with slashing on lesser distances, which crouching won't counter. However, if the distance is big enough like in the gifs above, they may try to stomp with their shield down (to not die from the fall damage caused by additional velocity from slashing), in which case this is still viable.
 
 Another cool mechanic is that you can grapple the ground while crouching, allowing you to go through enemies as long as you stay on the ground and don't use control keys (W/A/D), just using your grapple's momentum:
 
@@ -105,6 +107,12 @@ Letting the enemy get close to you right before finishing charging a triple shot
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/trd.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pug.webm" controls loop="loop" preload></video><br>
+
+### Mid range triple shot
+
+Even on mid range, if you shoot a triple shot at the right direction and angle, you can have 2 out of 3 arrows hit the enemy -- so if you hit an archer, they'll die.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mid3x.webm" controls loop="loop" preload></video><br>
 
 ### Fullshot + quartershot combo on shielding knight
 
@@ -228,31 +236,21 @@ If you shoot at the keg of an enemy (and not at the enemy itself), regardless of
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/ks1.webm" controls loop="loop" preload></video><br>
 
-If there's a knight with a keg on their back coming to yo, you can try to crouch + grapple through him and shoot an arrow on the keg and then pick it up.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kjug.webm" controls loop="loop" preload></video><br>
+
+If there's a knight with a keg on their back coming to you, you can try to crouch + grapple through him and shoot an arrow on the keg and then pick it up.
 
 [23]
 
-If the enemy has his shield up, and you're close enough (less than around 10 blocks), sometimes (although not always -- this seems to be somewhat random, regardless of distance or type of arrow) shooting at the shield will make the keg fall. However, the most reliable way is to just shoot at the head whenever the enemy is shielding.
+If the enemy has their shield up, and you're close enough (less than around 10 blocks), sometimes (although not always -- this seems to be somewhat random, regardless of distance or type of arrow) shooting at the shield will make the keg fall. However, the most reliable way is to just shoot at the head whenever the enemy is shielding.
 
 [24]
 
-It works the same with lighting enemy kegs by fire arrows -- if the enemy is shielding, it may or may not prevent the keg from falling. Again, best way is to just aim at the head, or just at the keg itself.
+It works the same with lighting enemy kegs by fire arrows -- if the enemy is shielding, it may or may not prevent the keg from being lit. Again, best way is to just aim at the head, or just at the keg itself.
 
 [27]
 
 Keep in mind that bomb arrows don't make kegs drop off enemies' backs, they just damage the keg.
-
-### Shooting mines
-
-You can shoot enemy mines to make them explode.
-
-[28]
-
-### Shooting grain
-
-If you shoot at the block below grain, you will be able to pick up the grain and use it to heal yourself.
-
-[29]
 
 ## CTF-specific stuff
 
@@ -290,9 +288,9 @@ Another thing worth knowing when trying to steal enemy flag is that you can't ac
 
 ### Doors have weird hitbox
 
-Doors have slightly larger hitbox than normal blocks, which makes them a "magnet" to arrows sometimes. Shooting in a hole between doors is much harder and requires more precision than if you were shooting in a hole between normal blocks (stone blocks).
+Doors have slightly larger hitbox than normal blocks (or just are weird), which makes them a "magnet" to arrows sometimes. Shooting in a hole between doors is much harder and requires more precision than if you were shooting in a hole between normal blocks (stone blocks).
 
-[85]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/problem.webm" controls loop="loop" preload></video><br>
 
 ### Grappling platforms
 
