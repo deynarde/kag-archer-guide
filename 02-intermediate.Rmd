@@ -258,7 +258,7 @@ While most of what was mentioned earlier applies to all gamemodes, there's some 
 
 ### Damaging siege (without special arrows)
 
-Shooting catapults or ballistas when they still have wheels attached makes them move. In some cases you can make a catapult or a ballista fall over, damaging it greatly.
+Shooting catapults or ballistas when they still have wheels attached makes them move. In some cases you can make a catapult or a ballista fall over, damaging it greatly. This however happens very rarely due to builders detaching wheels from vehicles right after unpacking them.
 
 [86]
 
