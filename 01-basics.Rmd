@@ -162,7 +162,7 @@ However, you should keep in mind that you can't grapple while charging your bow.
 
 ### Stomping
 
-You can stomp people by falling on top of them, which stuns them and does damage depending on your velocity (1 heart or 2 hearts). The grappling hook helps you to gain velocity you wouldn't have by normally jumping, this gets nullified at bigger fall distances as you will not have time to grapple down at the ground to get that extra momentum, because the grapple falls slower than yourself. 
+You can stomp enemies by falling on top of them, which stuns them and does damage depending on your velocity (1 heart or 2 hearts). The grappling hook helps you to gain velocity you wouldn't have by normally jumping, this gets nullified at bigger fall distances as you will not have time to grapple down at the ground to get that extra momentum, because the grapple falls slower than yourself. 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/stompg.webm" controls loop="loop" preload></video><br>
 
@@ -208,9 +208,9 @@ Water arrows can also be combined with stomps.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/water4.webm" controls loop="loop" preload></video><br>
 
-You can use water arrows on knights that hold a bomb in their hand.
+Using water arrows on knights that hold a bomb in their hand will make them unable to throw the bomb while stunned -- it will explode in their hand and deal 3 hearts of damage.
 
-[gif of thing above]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bouldercrush.webm" controls loop="loop" preload></video><br>
 
 Water arrows' stun can also go through up to 2 blocks, as shown in the gif below.
 
@@ -304,7 +304,11 @@ Using bomb arrows to damage enemy structures in CTF:
 
 One bomb arrow destroys a catapult, and two bomb arrows destroy a ballista, so whenever you see enemy siege vehicles, you should bomb arrow them -- this will significantly help your team.
 
-[another giffo]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/balshot.webm" controls loop="loop" preload></video><br>
+
+If you're unsure if your bomb arrow will hit (especially if you have to do an arc shot), you can first shoot normal arrows at the enemy vehicle, and once you know where to shoot so that it hits, you can shoot bomb arrows.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/balshot2.webm" controls loop="loop" preload></video><br>
 
 Bomb arrows are also very good for damaging spike traps -- they destroy a lot of spikes in one shot. Trap bridges are weak against bomb arrows as well.
 
@@ -316,7 +320,7 @@ However, if you shoot a bomb arrow at a stone wall, with platforms behind that w
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/d1.webm" controls loop="loop" preload></video><br>
 
-You can destroy a lot of enemy doors if there's an enemy standing in them:
+You can destroy a lot of enemy doors if there's an enemy standing in them. For example, if someone is holding 3 layers of doors open like in the example below, shooting a bomb arrow at them would destroy all 3 layers of doors.
 
 [gif of bomb arrow on enemy doors]
 
@@ -343,6 +347,18 @@ Boulders can do 0.5, 1.5 and full health of damage, depending on the boulder's v
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder7.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boldar.webm" controls loop="loop" preload></video><br>
+
+### Shooting mines
+
+You can shoot enemy mines to make them explode.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pag5.webm" controls loop="loop" preload></video><br>
+
+### Shooting grain
+
+If you shoot at the block grain is growing on, you will be able to pick up the grain (It's a food item, similar to a burger -- use it whenever on low health)
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/grain.webm" controls loop="loop" preload></video><br>
 
 ## Learning & playing as a beginner
 
