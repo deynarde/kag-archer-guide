@@ -90,9 +90,11 @@ Triple shot is the strongest attack. Requires charging for 2 seconds, shoots 3 a
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/kjeg2.webm" controls loop="loop" preload></video><br>
 
-If you triple shot a shielding knight from close distance, the middle arrow will stun them and the other arrows will do a heart of damage each, dealing a total of 2 hearts of damage.
+If you triple shot a shielding knight from close distance, the middle arrow will stun them and the other arrows will do a heart of damage each, dealing a total of 2 hearts of damage, as well as do a slight knockback.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/iksda.webm" controls loop="loop" preload></video><br>
+
+[gif with knockback]
 
 It can kill full-health archers or builders instantly if all the arrows hit (or just 2 for enemy archers).
 
@@ -101,10 +103,6 @@ It can kill full-health archers or builders instantly if all the arrows hit (or 
 Triple shots can often be charged while behind cover (for example team doors), and then only be shot after peeking out with a full or almost full charge.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/ebh.webm" controls loop="loop" preload></video><br>
-
-Since triple shots knock enemies back slightly when shot from a close distance, they are also a good way to get players knocked off a tower or into your teammate knights or team mines.
-
-[694]
 
 Triple shot accelerates enemy kegs:
 
@@ -137,6 +135,8 @@ The grappling hook gives archer the most mobility out of all three classes, maki
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/movement2.webm" controls loop="loop" preload></video><br>
 
 As you can see in the gif above, you should move back slightly every time after throwing your grappling hook on ground. This will cause the grapple to throw you further when you'll start moving forward. Jumping at the right time also gives you additional velocity. All of this is done instinctively by experienced archers -- just practice grappling until it feels natural to you.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/qcd.webm" controls loop="loop" preload></video><br>
 
 While flicking yourself through trees with the grappling hook, you shouldn't hold W in order to not slow yourself down by climbing the trees. First flick attempt in the gif below is done with holding W during the flick, second attempt -- without.
 
@@ -210,9 +210,9 @@ Water arrows can also be combined with stomps.
 
 Using water arrows on knights that hold a bomb in their hand will make them unable to throw the bomb while stunned -- it will explode in their hand and deal 3 hearts of damage.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/bouldercrush.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterbomb.webm" controls loop="loop" preload></video><br>
 
-Water arrows' stun can also go through up to 2 blocks, as shown in the gif below.
+Water arrows' stun can also go through up to 2 layers of blocks (although it's much more common to stun through one layer of blocks, like in the gif above), as shown in the gif below.
 
 [gif of water cancer]
 
@@ -298,9 +298,9 @@ Using bomb arrows to damage enemy structures in CTF:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/barpog.webm" controls loop="loop" preload></video><br>
 
-[GIF 25 - bomb arrow flag room]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/barf.webm" controls loop="loop" preload></video><br>
 
-[GIF 26 - bomb arrow collapse]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/sadge.webm" controls loop="loop" preload></video><br>
 
 One bomb arrow destroys a catapult, and two bomb arrows destroy a ballista, so whenever you see enemy siege vehicles, you should bomb arrow them -- this will significantly help your team.
 
