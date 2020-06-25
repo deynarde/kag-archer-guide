@@ -56,9 +56,11 @@ Some examples of using halfshots below:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/cre.webm" controls loop="loop" preload></video><br>
 
-There are also certain situations where a half shot can hit someone when a full shot wouldn't (arc shots).
+There are also certain situations where a halfshot can hit someone when a fullshot wouldn't -- due to smaller velocity of a half hot, they can start falling down sooner than fullshots and do arc shots.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/archalf.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/arcf.webm" controls loop="loop" preload></video><br>
 
 In some situations if you shoot a half shot and it hits the enemy that was far away, it can to lose some velocity along the way and do 0.5 heart of damage instead, like in the gif below. This is because damage of arrows is dependent on their velocity when they hit somebody. This usually happens whenever you halfshot an archer camping with significant height advantage (arrows have the lowest velocity when they reach the highest point they can get to before starting to fall down and gain velocity again).
 
@@ -74,9 +76,9 @@ A quarter shot is the quickest shot. You need to charge it for only a short whil
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/q5.webm" controls loop="loop" preload></video><br>
 
-If the arrow has time to gain velocity and you have a bit of height advantage, it can also do 1 heart of damage. It's a good tactic to spam quarter shots from your tower in CTF when there are lots of enemies below.
+If the arrow has time to gain velocity and you have a bit of height advantage, it can also do 1 heart of damage. It's a good tactic to spam quarter shots from your tower in CTF when there are lots of enemies below. In the gif below, I kill the blue archer with quarter shots that gain enough velocity to do 1 heart of damage each.
 
-[GIF 7]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/qs3.webm" controls loop="loop" preload></video><br>
 
 Quartershots can be used to finish low-health enemies as well.
 
@@ -134,7 +136,7 @@ The grappling hook gives archer the most mobility out of all three classes, maki
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/movement2.webm" controls loop="loop" preload></video><br>
 
-As you can see in the gif above, you should move back slightly every time after throwing your grappling hook on ground. This will cause the grapple to throw you further when you'll start moving forward. Jumping at the right time also gives you additional velocity. All of this is done instinctively by experienced archers -- just practice grappling until it feels natural to you.
+As you can see in the gifs above, you should move back slightly every time after throwing your grappling hook on ground. This will cause the grapple to throw you further when you'll start moving forward. Jumping at the right time also gives you additional velocity. All of this is done instinctively by experienced archers -- just practice grappling until it feels natural to you.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/qcd.webm" controls loop="loop" preload></video><br>
 
@@ -145,6 +147,8 @@ While flicking yourself through trees with the grappling hook, you shouldn't hol
 The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forward, this is why spamming your grappling hook to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
  
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fstan.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mov1.webm" controls loop="loop" preload></video><br>
 
 The mobility you have thanks to the grappling hook is a major reason why archer is the most fun class to play for majority of its main players. 
 
@@ -212,9 +216,9 @@ Using water arrows on knights that hold a bomb in their hand will make them unab
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/waterbomb.webm" controls loop="loop" preload></video><br>
 
-Water arrows' stun can also go through up to 2 layers of blocks (although it's much more common to stun through one layer of blocks, like in the gif above), as shown in the gif below.
+Water arrows' stun can go through blocks -- up to 2 layers of blocks, although it's much more common to stun through one layer of blocks, like in the gif above.
 
-[gif of water cancer]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/thrw.webm" controls loop="loop" preload></video><br>
 
 Keep in mind that the stun lasts less (half of original duration) if the enemy had their shield up and even less if they had a sponge in inventory (1/3 of original duration).
 
@@ -240,9 +244,11 @@ Using a fire arrow on an enemy archer will often kill them (as long as they don'
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fajer.webm" controls loop="loop" preload></video><br>
 
-Fire arrows shot at enemy kegs will make them catch fire which will ignite them. Lit kegs can be extinguished with a water bucket only, so be careful if your team has kegs stored up in CTF. 
+Fire arrows shot at enemy kegs (or enemy players holding kegs) will make them catch fire which will ignite them. Lit kegs can be extinguished with a water bucket only, so be careful if your team has kegs stored up in a spot accessible for enemy archers in CTF. 
 
-[gif 23 - lighting enemy keg]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/firekg.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/firekg2.webm" controls loop="loop" preload></video><br>
 
 This also happens if wooden background, wooden blocks, or just grass or bushes next to the keg start burning.
 
@@ -320,9 +326,9 @@ However, if you shoot a bomb arrow at a stone wall, with platforms behind that w
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/d1.webm" controls loop="loop" preload></video><br>
 
-You can destroy a lot of enemy doors if there's an enemy standing in them. For example, if someone is holding 3 layers of doors open like in the example below, shooting a bomb arrow at them would destroy all 3 layers of doors.
+You destroy much more enemy doors if there's an enemy standing in them. For example, if someone is holding 3 layers of doors open like in the gif below, shooting a bomb arrow at them would destroy all 3 layers of doors plus one more layer behind.
 
-[gif of bomb arrow on enemy doors]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fles.webm" controls loop="loop" preload></video><br>
 
 Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a normal arrow would.
 
