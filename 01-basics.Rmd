@@ -96,7 +96,7 @@ If you triple shot a shielding knight from close distance, the middle arrow will
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/iksda.webm" controls loop="loop" preload></video><br>
 
-[gif with knockback]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/knock.webm" controls loop="loop" preload></video><br>
 
 It can kill full-health archers or builders instantly if all the arrows hit (or just 2 for enemy archers).
 
@@ -174,7 +174,7 @@ You can stomp enemies by falling on top of them, which stuns them and does damag
 
 You can also grapple to a wall/tower/tree while stomping someone so you don't completely touch the ground and you are safe from other enemy knights, this can also give you momentum to immediately get back up.
 
-[GIF 15 - gif of stomp and grapple to tree]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/grapp1.webm" controls loop="loop" preload></video><br>
 
 You can't stomp a knight that is shielding up, regardless of velocity.
 
