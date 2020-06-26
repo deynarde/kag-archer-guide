@@ -26,7 +26,7 @@ The main point of this is to be able to charge your bow before jumping -- you ca
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom4.webm" controls loop="loop" preload></video><br>
 
-You can do a momentum jump without a stopping block too (just throw your grapple, then slightly move back, then pull yourself and jump), but this means you don't have as much time to charge your bow -- although you still can just quartershot someone, or even halfshot in some cases.
+You can do a momentum jump without a stopping block too -- throw your grapple as far as possible, then slightly move back, then pull yourself and jump. However, this means you don't have as much time to charge your bow -- although you still can just quartershot someone, or even halfshot in some cases.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mam2.webm" controls loop="loop" preload></video><br>
 
@@ -40,9 +40,13 @@ A bit more complex momentum jump -- first we shoot a quartershot water arrow to 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/mom567.webm" controls loop="loop" preload></video><br>
 
+Momentum jumps are also used when damaging enemies with boulders, as you could see in some of the gifs in the earlier chapter in the [Boulders](https://deynarde.github.io/kag-archer-guide/archer-i-basics.html#boulder) section.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/boulder3.webm" controls loop="loop" preload></video><br>
+
 ### Crouching
 
-Crouching is a largely forgotten, although very useful mechanic in KAG. Basically, when you hold down S, as long as you don't move with your control keys (W/A/S/D) enemies can go through you - and in certain cases, you can go through enemies.
+Crouching is a largely forgotten, although very useful mechanic in KAG. Basically, when you hold down S, as long as you don't move with your control keys (W/A/S/D) enemies can go through you -- and in certain cases, you can go through enemies.
 
 Keep in mind, there is only a seperate animation for crouching while being idle, but no seperate animations for shooting while crouching.
 
@@ -68,11 +72,13 @@ Another cool mechanic is that you can grapple the ground while crouching, allowi
 
 This is often done right after stunning the enemy with a fullshot.
 
-After doing that, you can shoot enemies in their back. In the gif below, first we flick ourselves with our grappling hook (momentum jump) then start holding S and letting go of other keys after hitting the ground while charging a halfshot at the same time.
+After doing that, you can shoot enemies in their back. In the gifs below, first we flick ourselves with our grappling hook, then start holding S and letting go of other keys after hitting the ground while charging a halfshot at the same time.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/crouchpog2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/gd3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/flick3.webm" controls loop="loop" preload></video><br>
 
 ### Close archer combat - fullshot + halfshot on another archer
 
@@ -254,13 +260,13 @@ If there's a knight with a keg on their back coming to you, you can try to crouc
 
 [23]
 
-If the enemy has their shield up, and you're close enough, sometimes (although not always -- this seems to be somewhat random, regardless of distance or type of arrow) shooting at the shield will make the keg fall. However, the most reliable way is to just shoot at the head whenever the enemy is shielding.
+If the enemy has their shield up, sometimes (although not always -- this seems to be somewhat random, regardless of distance or angle) shooting at the shield will make the keg fall. However, the most reliable way is to just shoot at the head whenever the enemy is shielding.
 
-[24]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/fajerd2.webm" controls loop="loop" preload></video><br>
 
-It works the same with lighting enemy kegs by fire arrows -- if the enemy is shielding, it may or may not prevent the keg from being lit. Again, best way is to just aim at the head, or just at the keg itself.
+It works the same with lighting enemy kegs by fire arrows -- if the enemy is shielding, it may or may not prevent the keg from being lit (although with fire it's a bit more likely to light the keg). Again, best way is to just aim at the head, or at the keg itself.
 
-[27]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/fajerd.webm" controls loop="loop" preload></video><br>
 
 Keep in mind that bomb arrows don't make kegs drop off enemies' backs, they just damage the keg.
 
@@ -284,9 +290,9 @@ Although if you get to an enemy ballista, you should probably just swap class to
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/balswap.webm" controls loop="loop" preload></video><br>
 
-### Getting mats from the enemy
+### Getting mats from the enemy team
 
-Although this is fairly obvious, many archers just ignore mats laying around on the ground. If you see many materials laying around (especially on enemy territory), you should pick them up and deliver to a close builder or just to a safe spot (generally, the most important materials are gold and stone, with wood not being as important).
+Although this is fairly obvious, many archers just ignore mats laying around on the ground. If you see many materials laying around (especially on enemy territory, or after killing an enemy builder), you should pick them up and deliver to a close team builder or just to a safe spot. Generally, the most important materials are gold and stone, with wood not being as important.
 
 [89]
 
