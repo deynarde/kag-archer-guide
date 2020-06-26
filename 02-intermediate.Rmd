@@ -16,7 +16,7 @@ There are 2 kinds of cameras in KAG - unfixed camera and fixed (this can be chan
 
 Momentum jumps are when you use your grapple to gain high velocity and combining it with shooting at the enemy.
 
-One way to easily get momentum for your grapple by throwing it as far as you can and having a block stop you from going to it, then jump.
+One way to easily get momentum for your grapple by throwing it as far as you can while having a single block stop you from going forward, then jump.
 
 The main point of this is to be able to charge your bow before jumping -- you can't charge while grappling something, as mentioned in the first chapter, so you need to grapple first, then charge, then jump and release the arrow at the right time. It's mostly used to surprise enemies.
 
@@ -25,10 +25,6 @@ The main point of this is to be able to charge your bow before jumping -- you ca
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom1.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom4.webm" controls loop="loop" preload></video><br>
-
-This also works when stopped by 2 blocks.
-
-[gif]
 
 You can do a momentum jump without a stopping block too (just throw your grapple, then slightly move back, then pull yourself and jump), but this means you don't have as much time to charge your bow -- although you still can just quartershot someone, or even halfshot in some cases.
 
@@ -58,19 +54,27 @@ For example, if someone is trying to stomp you, you can crouch to avoid being hi
 
 This is mostly done against builders and archers. Knights can sometimes combine stomping with slashing on lesser distances, which crouching won't counter. However, if the distance is big enough like in the gifs above, they may try to stomp with their shield down (to not die from the fall damage caused by additional velocity from slashing), in which case this is still viable.
 
-Another cool mechanic is that you can grapple the ground while crouching, allowing you to go through enemies as long as you stay on the ground and don't use control keys (W/A/D), just using your grapple's momentum:
+### Crouching + grappling (crouch sliding)
 
-[2]
+Another cool mechanic is that you can grapple the ground while crouching, allowing you to go through enemies as long as you stay on the ground and don't use control keys (W/A/D), just using your grapple's momentum. Basically, do a momentum jump, but make sure you stay on the ground and don't hold A or D while moving through the enemy with S pressed down.
 
-After doing that, you can shoot enemies in their back. In the gif below, first we flick ourselves with our grappling hook then start holding S and letting go of other keys after hitting the ground while charging a halfshot at the same time.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd1.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd2.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd5.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd6.webm" controls loop="loop" preload></video><br>
+
+This is often done right after stunning the enemy with a fullshot.
+
+After doing that, you can shoot enemies in their back. In the gif below, first we flick ourselves with our grappling hook (momentum jump) then start holding S and letting go of other keys after hitting the ground while charging a halfshot at the same time.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/crouchpog2.webm" controls loop="loop" preload></video><br>
 
-If a knight is trying to shieldbash you and quickly shield slides in your direction, you can also wait until he walks into you and then shoot him. Hold S and hide the animation of crouching by charging an arrow.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/gd3.webm" controls loop="loop" preload></video><br>
 
-[3]
-
-### Close archer combat - fullshot + halfshot
+### Close archer combat - fullshot + halfshot on another archer
 
 In close archer combat, whenever you're fighting against another archer, you should often try to stun them with a full shot -- they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
 
@@ -80,13 +84,13 @@ In the gif below, we use the arrow in the wall to get closer to the archer so th
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/t3d.webm" controls loop="loop" preload></video><br>
 
-### Close archer combat - quartershots
+### Using quartershots
 
-Spamming quartershots in close combat is not very effective since THEY have small velocity and do ONLY half a heart of damage. As mentioned earlier, best way to use them is by having significant height advantage over the enemy, and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity.
+Spamming quartershots in close combat is not very effective since they have small velocity and do only half a heart of damage. As mentioned in the previous chapter, best way to use them is by having significant height advantage over the enemy and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity.
 
 [9]
 
-Another good way is when you're escaping from an enemy knight that is constantly trying to attack. You should shoot them slightly upwards so they hit the enemy right as they get close close.
+Another good way is when you're escaping from an enemy knight that is constantly trying to attack. You can shoot quartershots slightly upwards so they hit the enemy right as they get close close.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/hfesc.webm" controls loop="loop" preload></video><br>
 
@@ -146,9 +150,11 @@ If you're quick and fast enough, you can often stomp knights and archers when th
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pagkat.webm" controls loop="loop" preload></video><br>
 
-There are also some arrow + stomp combinations. You shoot a fullshot to stun a shielding knight first, and then stomp them (either due to height advantage or using your grappling hook for additional velocity)
+There are also some arrow + stomp combinations. You shoot a fullshot to stun a knight first, and then stomp them (due to height advantage or using your grappling hook for additional velocity, or both).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/stunstomp.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd7.webm" controls loop="loop" preload></video><br>
 
 Stomping and shooting a fullshot or a halfshot at enemy archers at the same time will kill them most of the time (1 heart from stomp, 1 heart from fullshot/halfshot, plus they're obviously not able to shield it).
 
@@ -182,23 +188,29 @@ You should either do this whenever the enemy is busy focusing on a teammate or i
 
 Another good trick is combining a triple shot (previously charged somewhere where you have height advantage) with a stomp.
 
-[15.5]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd4.webm" controls loop="loop" preload></video><br>
 
-Keep in mind that people can avoid getting stomped by crouching -- if some knight is not moving while you're falling on them, it's likely that he's trying to bait you while crouching. However, shooting a fullshot will stun them, and since you're unable to crouch while stunned, you will be able to damage them with a stomp. 
+Keep in mind that knights can avoid getting stomped by crouching -- if some knight is not moving with their shield up, it's likely that he's trying to bait you while crouching. However, shooting a fullshot will stun them, and since you're unable to crouch while stunned, you will be able to damage them with a stomp. It works like in the gif below.
 
-[16]
-
-You can't stomp shielding knights without stunning them with an arrow first -- just throwing yourself at them won't do anything and will likely get you killed.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/czaseg.webm" controls loop="loop" preload></video><br>
 
 However, you can also decide not to stomp -- just wait to get inside them first, and then shoot an arrow. You will do a heart of damage again.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/teh.webm" controls loop="loop" preload></video><br>
 
-### Throwing back enemy bombs
+Remember that you can't stomp shielding knights without stunning them with an arrow first -- just throwing yourself at them won't do anything and will likely get you killed.
 
-If enemy knights throw a bomb at you, you can try throwing it back if there's enough time for the bomb to not kill you.
+### Catching and throwing back enemy bombs
+
+If enemy knights throw a bomb at you, you can try catching it and throwing it back if there's enough time for the bomb to not kill you.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogthrow.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pol.webm" controls loop="loop" preload></video><br>
+
+Although it's a bit tricker to do, you can also catch water bombs before they hit you and throw them back.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd3.webm" controls loop="loop" preload></video><br>
 
 ### Catching kegs
 
@@ -212,9 +224,9 @@ If you're cornered by or just close to a knight, you can throw grapple but not a
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/bait.webm" controls loop="loop" preload></video><br>
 
-It sometimes works against archers -- they shoot an arrow in where you would be if you have had grappled.
+It sometimes works against archers as well -- they shoot an arrow in where you would be if you have had grappled.
 
-[20]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/bait23.webm" controls loop="loop" preload></video><br>
 
 You can also grapple over the heads of enemy knights. They're likely to start charging a slash or try to jab when you do that, again giving you enough time to hit them with a halfshot
 
@@ -242,7 +254,7 @@ If there's a knight with a keg on their back coming to you, you can try to crouc
 
 [23]
 
-If the enemy has their shield up, and you're close enough (less than around 10 blocks), sometimes (although not always -- this seems to be somewhat random, regardless of distance or type of arrow) shooting at the shield will make the keg fall. However, the most reliable way is to just shoot at the head whenever the enemy is shielding.
+If the enemy has their shield up, and you're close enough, sometimes (although not always -- this seems to be somewhat random, regardless of distance or type of arrow) shooting at the shield will make the keg fall. However, the most reliable way is to just shoot at the head whenever the enemy is shielding.
 
 [24]
 
@@ -258,13 +270,15 @@ While most of what was mentioned earlier applies to all gamemodes, there's some 
 
 ### Damaging siege (without special arrows)
 
-Shooting catapults or ballistas when they still have wheels attached makes them move. In some cases you can make a catapult or a ballista fall over, damaging it greatly. This however happens very rarely due to builders detaching wheels from vehicles right after unpacking them.
+Shooting catapults or ballistas when they still have wheels attached makes them move. In some cases you can make a catapult or a ballista fall over, damaging it greatly. This however happens very rarely due to builders detaching wheels from vehicles right after unpacking them. Gif demonstrating movement of vehicles with wheels while shot at below.
 
-[86]
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/vc1.webm" controls loop="loop" preload></video><br>
 
 If you manage to get right next to an enemy catapult, you can shoot it with a triple shot at the correct angle to move it, even if it doesn't have wheels attached:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/rick.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd8.webm" controls loop="loop" preload></video><br>
 
 Although if you get to an enemy ballista, you should probably just swap class to knight or builder:
 
