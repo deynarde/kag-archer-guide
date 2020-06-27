@@ -292,9 +292,9 @@ Although if you get to an enemy ballista, you should probably just swap class to
 
 ### Getting mats from the enemy team
 
-Although this is fairly obvious, many archers just ignore mats laying around on the ground. If you see many materials laying around (especially on enemy territory, or after killing an enemy builder), you should pick them up and deliver to a close team builder or just to a safe spot. Generally, the most important materials are gold and stone, with wood not being as important.
+Although this is fairly obvious, many archers just ignore materials laying around on the ground. If you see many materials laying around (especially on enemy territory, or after killing an enemy builder), you should pick them up and deliver to a close team builder or just to a safe spot. Generally, the most important materials are gold and stone, with wood not being as important.
 
-[89]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/matsave.webm" controls loop="loop" preload></video><br>
 
 ### Stealing the flag
 
