@@ -18,7 +18,7 @@ Momentum jumps are when you use your grapple to gain high velocity and combining
 
 One way to easily get momentum for your grapple by throwing it as far as you can while having a single block stop you from going forward, then jump.
 
-The main point of this is to be able to charge your bow before jumping -- you can't charge while grappling something, as mentioned in the first chapter, so you need to grapple first, then charge, then jump and release the arrow at the right time. It's mostly used to surprise enemies.
+The main point of this is to be able to charge your bow before jumping -- you can't use your grappling hook while charging your bow, as mentioned in the first chapter, so you need to grapple first, then start charging right after, then jump and release the arrow at the right time. It's mostly used to surprise enemies.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom2.webm" controls loop="loop" preload></video><br>
 
@@ -26,11 +26,11 @@ The main point of this is to be able to charge your bow before jumping -- you ca
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom4.webm" controls loop="loop" preload></video><br>
 
-You can do a momentum jump without a stopping block too -- throw your grapple as far as possible, then slightly move back, then pull yourself and jump. However, this means you don't have as much time to charge your bow -- although you still can just quartershot someone, or even halfshot in some cases.
+You can do a momentum jump without a stopping block too -- throw your grappling hook as far as possible, start holding left mouse button right after, move back until the grappling hook touches the ground, then pull yourself and jump. Without a stopping block you don't have as much time to charge your bow, but you still can just quartershot someone, or even halfshot in some cases.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mam2.webm" controls loop="loop" preload></video><br>
 
-[gif halfshot]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/replacement.webm" controls loop="loop" preload></video><br>
 
 Momentum jumps are also often combined with stomping.
 
@@ -134,7 +134,7 @@ You can stun a shielding knight with a fullshot and then quickly quartershot the
 
 ### Fullshot + grappling someone into a pit
 
-If you're fighting a knight near a pit, you could stun him with a fullshot then use your grappling hook to move him to the pit, as shown in the gif below.
+If you're fighting a knight near a pit, you could stun them with a fullshot then use your grappling hook to move them to the pit, as shown in the gif below.
 
 [12]
 
@@ -224,7 +224,7 @@ Although it's a bit tricker to do, you can also catch water bombs before they hi
 
 With fast enough reflexes you can catch kegs thrown at you.
 
-[18]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/catchf.webm" controls loop="loop" preload></video><br>
 
 ### Baiting with a grapple
 
