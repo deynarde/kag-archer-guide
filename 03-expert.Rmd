@@ -10,23 +10,31 @@ There's not much to top tier archer playing other than perfecting your timing, a
 
 ### Arc shots
 
-Arc shots are most likely the hardest thing to master in archer combat -- that is shooting an arrow upwards with the goal to have it hit places where you wouldn't usually be able to shoot. You're able to use it on pretty much all maps where people can hide behind obstacles.
+Arc shots are most likely the hardest thing to master in archer combat -- that is shooting an arrow (a halfshot or a fullshot) upwards with the goal to have it hit places where you wouldn't usually be able to shoot. You're able to use it on pretty much all maps where people can hide behind obstacles. There's not much to explain here -- you just need to shoot arrows at the proper angle. This is hard to master due to how arrows act -- they're pretty much just not affected by gravity for a short while after being shot, and then start falling down.
+
+The best way to train arc shots is just constant practice. You can do that both on online servers or practice yourself in Solo sandbox by building yourself a training course.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-expert/arc1.webm" controls loop="loop" preload></video><br>
+
+Mastering this and always knowing where your arrows will land would make you one of the best archers in the game, but this requires lots of experience -- that is knowing where to put your cursor for halfshots and fullshots depending on the distance between you and the enemy. 
+
+Some more examples of arc shots:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-expert/arc3.webm" controls loop="loop" preload></video><br>
+
+### Arc shot combos
+
+In combat, if a knight keeps camping with their shield and doesn't want to get close to you, and you're too scared to go close to them, you can make a combo of arc shot + normal shot: shoot an arrow up, so it arcs and hits him on the head, if he shields up, you can start charging another shot and shoot him from the side, making him have to decide to either shield up or sideways.
 
 [gifs here]
-
-In combat, if a knight keeps camping his shield and not moving, and you're too scared to go close to him, you can make a combo of arc shot + normal shot: shoot an arrow up, so it arcs and hits him on the head, if he shields up, you can start charging another shot and shoot him from the side, making him have to decide to either shield up or sideways.
-
-[gif here]
-
-It works if you're being chased by a knight as well, as in gif below.
-
-[gif here]
 
 You can use arc shots to make campy archers move away from their spot, allowing you to hit them with a normal shot.
 
 [gif here]
 
-Mastering this and always knowing where your arrows will land would make you one of the best archers in the game.
+Even if you miss one of the arrows, you're still more likely to hit the enemy if they move. 
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/03-expert/arc2.webm" controls loop="loop" preload></video><br>
 
 You can practice it on solo modes or empty servers as well by shooting objects that don't move - trees, specific blocks, etc.
 
