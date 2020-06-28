@@ -72,13 +72,15 @@ Another cool mechanic is that you can grapple the ground while crouching, allowi
 
 This is often done right after stunning the enemy with a fullshot.
 
-After doing that, you can shoot enemies in their back. In the gifs below, first we flick ourselves with our grappling hook, then start holding S and letting go of other keys after hitting the ground while charging a halfshot at the same time.
+After doing that, you can shoot enemies in their back. In the gifs below, first we flick ourselves with our grappling hook, then start holding S and letting go of other keys after hitting the ground while charging another shot at the same time.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/crouchpog2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/gd3.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/flick3.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/ebacslide.webm" controls loop="loop" preload></video><br>
 
 ### Close archer combat - fullshot + halfshot on another archer
 
@@ -92,9 +94,9 @@ In the gif below, we use the arrow in the wall to get closer to the archer so th
 
 ### Using quartershots
 
-Spamming quartershots in close combat is not very effective since they have small velocity and do only half a heart of damage. As mentioned in the previous chapter, best way to use them is by having significant height advantage over the enemy and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity.
+Spamming quartershots in close combat is not very effective since they have small velocity and do only half a heart of damage. As mentioned in the previous chapter, best way to use them is by having significant height advantage over the enemy and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity. In the gif below, we deal 3 hearts of damage to the enemy with just quartershot spam and then finish them with a fullshot.
 
-[9]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/spamd.webm" controls loop="loop" preload></video><br>
 
 Another good way is when you're escaping from an enemy knight that is constantly trying to attack. You can shoot quartershots slightly upwards so they hit the enemy right as they get close close.
 
@@ -256,9 +258,9 @@ If you shoot at the keg of an enemy (and not at the enemy itself), regardless of
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kjug.webm" controls loop="loop" preload></video><br>
 
-If there's a knight with a keg on their back coming to you, you can try to crouch + grapple through him and shoot an arrow on the keg and then pick it up.
+If there's a knight with a keg on their back coming to you, you can try to crouch slide through him and shoot an arrow on the keg and then pick it up.
 
-[23]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kslide.webm" controls loop="loop" preload></video><br>
 
 If the enemy has their shield up, sometimes (although not always -- this seems to be somewhat random, regardless of distance or angle) shooting at the shield will make the keg fall. However, the most reliable way is to just shoot at the head whenever the enemy is shielding.
 
