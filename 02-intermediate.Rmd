@@ -128,15 +128,9 @@ Even on mid range, if you shoot a triple shot at the right direction and angle, 
 
 ### Fullshot + quartershot combo on shielding knight
 
-You can stun a shielding knight with a fullshot and then quickly quartershot them when they're still stunned right after that to guarantee a half a heart hit.
+You can stun a shielding knight with a fullshot and then quickly quartershot them when they're still stunned to guarantee a half a heart hit.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/hehe.webm" controls loop="loop" preload></video><br>
-
-### Fullshot + grappling someone into a pit
-
-If you're fighting a knight near a pit, you could stun them with a fullshot then use your grappling hook to move them to the pit, as shown in the gif below.
-
-[12]
 
 ### Shooting over enemy knight shield
 
