@@ -1,4 +1,4 @@
-# Archer II: Intermediate
+# Archer II: Getting better
 
 <p align="center">
   <img src="imgs/bow.png">
