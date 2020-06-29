@@ -220,6 +220,10 @@ Water arrows' stun can go through blocks -- up to 2 layers of blocks, although i
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/thrw.webm" controls loop="loop" preload></video><br>
 
+You can stun enemies through walls to make them fall from ladders and die to fall damage.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/gvc.webm" controls loop="loop" preload></video><br>
+
 Keep in mind that the stun lasts less (half of original duration) if the enemy had their shield up and even less if they had a sponge in inventory (1/3 of original duration).
 
 Shield up:
