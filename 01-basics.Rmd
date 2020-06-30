@@ -146,7 +146,7 @@ While flicking yourself through trees with the grappling hook, you shouldn't hol
 
 The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forward, this is why spamming your grappling hook to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
  
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fstan.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/climb.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mov1.webm" controls loop="loop" preload></video><br>
 
