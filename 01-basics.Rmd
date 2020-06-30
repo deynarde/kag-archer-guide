@@ -240,7 +240,7 @@ Both (even shorter stun):
 
 ### Fire arrows
 
-Fire arrows can burn wooden structures or enemy players to make them run towards their cursors' direction. This means that the shot will deal them 1 heart of damage, and the fire will deal them 0.25 hearts of damage each second for 4 seconds (so up to 2 hearts). Whenever somebody is on fire, their character always moves forward in the direction they're looking (have their cursor).
+Fire arrows can burn wooden structures or enemy players to make them run towards their cursors' direction. This means that the shot will deal them 1 heart of damage, and the fire will deal them 0.25 hearts of damage each second for 4 seconds (so up to 2 hearts). Keep in mind: A close fullshot of a fire arrow doesn't stun the enemy like a normal arrow would. Whenever somebody is on fire, their character always moves forward in the direction they're looking (have their cursor).
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/firear.webm" controls loop="loop" preload></video><br>
 
@@ -260,11 +260,11 @@ In the gif below, I put a keg on a spot where my teammate shot a fire arrow. The
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/teheh.webm" controls loop="loop" preload></video><br>
 
-Keep in mind: A close fullshot of a fire arrow doesn't stun the enemy like a normal arrow would.
-
 ### Bomb arrows
 
 Bomb arrows can do significant damage on impact, 3 hearts of damage at most. They instantly kill enemy builders and archers. They're also very good to be used against enemy structures as they will destroy 3 blocks facing opposite of the bomb arrows tip, they also do have some area of damage around the impact, which can break backwalls, which makes them excellent at collapsing enemy towers and opening enemy flagrooms, although they obviously don't hit backwalls themselves. 
+
+Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a normal arrow would.
 
 First, some gifs demonstrating using bomb arrows against enemy archers in TDM:
 
@@ -333,8 +333,6 @@ However, if you shoot a bomb arrow at a stone wall, with platforms behind that w
 You destroy much more enemy doors if there's an enemy standing in them. For example, if someone is holding 3 layers of doors open like in the gif below, shooting a bomb arrow at them would destroy all 3 layers of doors plus one more layer behind.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fles.webm" controls loop="loop" preload></video><br>
-
-Keep in mind: A close fullshot of a bomb arrow doesn't stun the enemy like a normal arrow would.
 
 ### Boulder
 
