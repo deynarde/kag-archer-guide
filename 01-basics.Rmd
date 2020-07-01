@@ -371,3 +371,15 @@ If you shoot at the block grain is growing on, you will be able to pick up the g
 ## Learning & playing as a beginner
 
 What you should focus on learning as a beginner is the various shots, mobility and aim. You should charge triple, full and half shots as fast as possible - in some cases, being faster than your opponent is what will decide the outcome of an archer duel. You should also be able to move freely around the map with your grappling hook, as well as during combat. Being able to aim (while doing various shots) is also what you should focus on at this level.
+
+Some more things to keep in mind are:
+
+Breaking your rhythm when fighting other archers is an important thing to do, most of the time it lets you get in at least 1 extra shot. By this we mean not moving too predictably (mind games).
+
+Changing your targets at the last second works too, or just changing if you know you can't hit your original target.
+
+It's easy to setup kills for your teammates as an archer, like using fullshots to stun and stall enemy movement. Don't get too close, because sometimes teammates ignore the free kill/assist, and you are alone in a close combat situation with an enemy knight for an example.
+
+Also basic things like constantly shooting enemies with halfshots/fullshots from a distance to keep pressure on them, are very helpful for your team.
+
+Attacking the most important targets like builders instead of knights or archers, evaluate the situation and go for the most important enemy, even if it means you die.
