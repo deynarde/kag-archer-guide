@@ -138,7 +138,7 @@ The grappling hook gives archer the most mobility out of all three classes, maki
 
 As you can see in the gifs above, you should move back slightly every time after throwing your grappling hook on ground. This will cause the grapple to throw you further when you'll start moving forward. Jumping at the right time also gives you additional velocity. All of this is done instinctively by experienced archers -- just practice grappling until it feels natural to you.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/qcd.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/qcd.webm" controls loop="loop" preload></video><br>
 
 While flicking yourself through trees with the grappling hook, you shouldn't hold W in order to not slow yourself down by climbing the trees. First flick attempt in the gif below is done with holding W during the flick, second attempt -- without.
 
@@ -148,7 +148,7 @@ The grappling hook relies on momentum, meaning the more momentum you have, the f
  
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/climb.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mov1.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/mov1.webm" controls loop="loop" preload></video><br>
 
 The mobility you have thanks to the grappling hook is a major reason why archer is the most fun class to play for majority of its main players. 
 
@@ -174,7 +174,7 @@ You can stomp enemies by falling on top of them, which stuns them and does damag
 
 You can also grapple to a wall/tower/tree while stomping someone so you don't completely touch the ground and you are safe from other enemy knights, this can also give you momentum to immediately get back up.
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/grapp1.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/grapp.webm" controls loop="loop" preload></video><br>
 
 You can't stomp a knight that is shielding up, regardless of velocity.
 
