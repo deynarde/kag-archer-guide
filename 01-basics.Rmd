@@ -134,31 +134,41 @@ You're able to climb trees as an archer (knights or builders can't do that). To 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dtree.webm" controls loop="loop" preload></video><br>
 
-### Grappling
+### Grappling, mobility
 
 Mobility is one of the most important aspects of playing against other players -- using the grappling hook is a must.
 
-The grappling hook gives archer the most mobility out of all three classes, making archer the most mobile class in combat situations. It can give you speed that can be used in many situations, like stealing the flag, someones dropped items, climbing a tower and harassing the enemy builder, or just going through the map fast.
+The grappling hook gives archer the most mobility out of all three classes, making archer the most mobile class in combat situations. It can give you speed that can be used in many situations, like stealing the flag, someones dropped items, climbing a tower and harassing the enemy builder, or just going through the map fast. The mobility you have thanks to the grappling hook is a major reason why archer is the most fun class to play for majority of its main players. 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/quickmove.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/movement2.webm" controls loop="loop" preload></video><br>
+As you can see in the gif above, you should move back slightly every time after throwing your grappling hook on ground. This will cause the grapple to throw you further when you'll start moving forward. Jumping at the right time also gives you additional velocity. All of this is done instinctively by experienced archers -- just keep practicing grappling until it feels natural to you.
 
-As you can see in the gifs above, you should move back slightly every time after throwing your grappling hook on ground. This will cause the grapple to throw you further when you'll start moving forward. Jumping at the right time also gives you additional velocity. All of this is done instinctively by experienced archers -- just practice grappling until it feels natural to you.
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/movement2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/qcd.webm" controls loop="loop" preload></video><br>
 
-While flicking yourself through trees with the grappling hook, you shouldn't hold W in order to not slow yourself down by climbing the trees. First flick attempt in the gif below is done with holding W during the flick, second attempt -- without.
+#### Grappling through trees
+
+While throwing yourself through trees with the grappling hook, you shouldn't hold W in order to not slow yourself down by climbing the trees. First flick attempt in the gif below is done with holding W during the flick, second attempt -- without.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/ricardo.webm" controls loop="loop" preload></video><br>
 
-The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forward, this is why spamming your grappling hook to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below.
+You can use trees to get a lot of velocity as well. One thing you can do is do a long jump: jump off a tree (as far away from it as possible, but still in grapple range), grapple the top while falling then after hitting the ground jump to get additional velocity (press W) and throw yourself. Make sure that the grappling hook hits the tree right before you fall on the ground and jump. You should practice this in solo sandbox on trees.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/sjom.webm" controls loop="loop" preload></video><br>
+
+#### Grappling to climb enemy wall
+
+The grappling hook relies on momentum, meaning the more momentum you have, the faster you will go forward, this is why spamming your grappling hook to climb the enemy wall will be more of a disadvantage than advantage. Proper way to climb is shown below. As you can see, we grapple as far as possible while falling down. Right after the grappling hook hits the wall, we do a walljump to get additional velocity and go upwards faster.
  
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/climb.webm" controls loop="loop" preload></video><br>
 
+Another gif showing climbing with grappling hook:
+
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/mov1.webm" controls loop="loop" preload></video><br>
 
-The mobility you have thanks to the grappling hook is a major reason why archer is the most fun class to play for majority of its main players. 
+#### Grappling to dodge danger
 
 You can often dodge enemy bombs, arrows, or avoid enemies themselves by using your grappling hook.
 
@@ -170,7 +180,9 @@ You can often dodge enemy bombs, arrows, or avoid enemies themselves by using yo
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dg1.webm" controls loop="loop" preload></video><br>
 
-However, you should keep in mind that you can't grapple while charging your bow. You can only first grapple, and then start charging an arrow, but you can't re-grapple while charging.
+#### You can't grapple while charging arrows
+
+However, you should keep in mind that you can't throw your grappling hook while charging your bow. You can only first grapple, and then start charging an arrow, but you can't re-grapple while charging.
 
 ### Stomping
 
