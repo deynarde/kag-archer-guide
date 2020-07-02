@@ -52,7 +52,7 @@ Keep in mind, there is only a seperate animation for crouching while being idle,
 
 For example, if someone is trying to stomp you, you can crouch to avoid being hit, and then shoot them:
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/sadeg3.webm" controls loop="loop" preload></video><br>
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/sadeg2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/avoid.webm" controls loop="loop" preload></video><br>
 
