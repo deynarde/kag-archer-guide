@@ -264,6 +264,10 @@ In the gif below, I put a keg on a spot where my teammate shot a fire arrow. The
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/teheh.webm" controls loop="loop" preload></video><br>
 
+If you shoot a fire arrow at an enemy standing in wooden doors, both the enemy will catch on fire as well as the doors.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/fdv.webm" controls loop="loop" preload></video><br>
+
 ### Bomb arrows
 
 Bomb arrows can do significant damage on impact, 3 hearts of damage at most. They instantly kill enemy builders and archers. They're also very good to be used against enemy structures as they will destroy 3 blocks facing opposite of the bomb arrows tip, they also do have some area of damage around the impact, which can break backwalls, which makes them excellent at collapsing enemy towers and opening enemy flagrooms, although they obviously don't hit backwalls themselves. 
