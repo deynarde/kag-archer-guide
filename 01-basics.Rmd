@@ -128,7 +128,15 @@ You should almost always aim in the direction you're moving to -- all classes in
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/looking.webm" controls loop="loop" preload></video><br>
 
+### Climbing trees
+
+You're able to climb trees as an archer (knights or builders can't do that). To do that, you must hold W when in front of a tree. If you stop holding W, you will stop climbing the tree and fall off.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dtree.webm" controls loop="loop" preload></video><br>
+
 ### Grappling
+
+Mobility is one of the most important aspects of playing against other players -- using the grappling hook is a must.
 
 The grappling hook gives archer the most mobility out of all three classes, making archer the most mobile class in combat situations. It can give you speed that can be used in many situations, like stealing the flag, someones dropped items, climbing a tower and harassing the enemy builder, or just going through the map fast.
 
@@ -181,10 +189,6 @@ You can't stomp a knight that is shielding up, regardless of velocity.
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/sadg4.webm" controls loop="loop" preload></video><br>
 
 Stomping is a good way to gain extra damage in TDM aswell, as the combat is much more compact than in CTF. There will be more about stomping in the next chapter.
-
-## Mobility
-
-Mobility is the most important aspect of playing against other players, the better you become at it, the easier it is to surprise enemies, as well as baiting/tricking other players so they expose theirselves and you can get a free shot on them. Using the grappling hook is a must.
 
 ## Items
 
