@@ -26,6 +26,10 @@ The main point of this is to be able to charge your bow before jumping -- you ca
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mom4.webm" controls loop="loop" preload></video><br>
 
+A specific momentum jump is when you have 2 blocks blocking you from going forward. In this case, you can shoot an arrow on the top block and then hold W to climb the arrow and get over the obstacle.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/uhu.webm" controls loop="loop" preload></video><br>
+
 You can do a momentum jump without a stopping block too -- throw your grappling hook as far as possible, start holding left mouse button right after, move back until the grappling hook touches the ground, then pull yourself and jump. Without a stopping block you don't have as much time to charge your bow, but you still can just quartershot someone, or even halfshot in some cases.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mam2.webm" controls loop="loop" preload></video><br>
@@ -50,11 +54,13 @@ Crouching is a largely forgotten, although very useful mechanic in KAG. Basicall
 
 Keep in mind, there is only a seperate animation for crouching while being idle, but no seperate animations for shooting while crouching.
 
-For example, if someone is trying to stomp you, you can crouch to avoid being hit, and then shoot them:
+For example, if someone is trying to stomp or shieldbash you, you can crouch to avoid being hit, and then shoot them:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/sadeg2.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/avoid.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kraucz.webm" controls loop="loop" preload></video><br>
 
 This is mostly done against builders and archers. Knights can sometimes combine stomping with slashing on lesser distances, which crouching won't counter. However, if the distance is big enough like in the gifs above, they may try to stomp with their shield down (to not die from the fall damage caused by additional velocity from slashing), in which case this is still viable.
 
@@ -84,9 +90,11 @@ After doing that, you can shoot enemies in their back. In the gifs below, first 
 
 ### Close archer combat - fullshot + halfshot on another archer
 
-In close archer combat, whenever you're fighting against another archer, you should often try to stun them with a full shot -- they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
+In close archer combat, whenever you're fighting against another archer, you can try to stun them with a full shot -- they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/fullhalf.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/zasnoc.webm" controls loop="loop" preload></video><br>
 
 In the gif below, we use the arrow in the wall to get closer to the archer so that the fullshot would stun them, then finish them with a halfshot.
 
@@ -126,11 +134,15 @@ Even on mid range, if you shoot a triple shot at the right direction and angle, 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/mid3x.webm" controls loop="loop" preload></video><br>
 
-### Fullshot + quartershot combo on shielding knight
+### Fullshot stun + quartershot combo on knights
 
-You can stun a shielding knight with a fullshot and then quickly quartershot them when they're still stunned to guarantee a half a heart hit.
+A) You can stun a shielding knight with a fullshot and then quickly quartershot them when they're still stunned to guarantee a half a heart hit.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/hehe.webm" controls loop="loop" preload></video><br>
+
+Fullshotting a non-shielding knight from close distance will let you shoot them with a quartershot while they're still stunned.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kwiatki.webm" controls loop="loop" preload></video><br>
 
 ### Shooting over enemy knight shield
 
@@ -157,6 +169,8 @@ There are also some arrow + stomp combinations. You shoot a fullshot to stun a k
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/stunstomp.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/cd7.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/fell.webm" controls loop="loop" preload></video><br>
 
 Stomping and shooting a fullshot or a halfshot at enemy archers at the same time will kill them most of the time (1 heart from stomp, 1 heart from fullshot/halfshot, plus they're obviously not able to shield it).
 
@@ -209,6 +223,8 @@ If enemy knights throw a bomb at you, you can try catching it and throwing it ba
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pogthrow.webm" controls loop="loop" preload></video><br>
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/pol.webm" controls loop="loop" preload></video><br>
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/kacz.webm" controls loop="loop" preload></video><br>
 
 Although it's a bit tricker to do, you can also catch water bombs before they hit you and throw them back.
 
