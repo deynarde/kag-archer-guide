@@ -332,6 +332,12 @@ You can make a wooden block ledge (as a builder obviously) on the top of your to
 
 Make sure to not jump while doing this (or move in any direction) -- use your mouse (grapple) only. Jumping or moving for some reason makes you lose velocity in this situation. Start moving only after jumping off the platform.
 
+### Avoiding fall damage by landing on trees
+
+Self-explanatory. Hold W while falling on a tree. A bit easier to do if you're moving slightly to the side.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/abs.webm" controls loop="loop" preload></video><br>
+
 ### Lighting keg as knight then swapping to archer
 
 This is often combined with the grappling platforms trick above. The idea is to light a keg while you're a knight, then quickly swap to archer on an archer shop and pick the keg back up. Since you're able to grapple as an archer, you can use the keg much more effectively than if you were a knight.
