@@ -24,9 +24,9 @@ Some more examples of arc shots:
 
 ### Arc shot combos
 
-In combat, if a knight keeps camping with their shield and doesn't want to get close to you, and you're too scared to go close to them, you can make a combo of arc shot + normal shot: shoot an arrow up, so it arcs and hits him on the head, if he shields up, you can start charging another shot and shoot him from the side, making him have to decide to either shield up or sideways.
+You can make a combo of arc shot + normal shot: shoot an arrow up, so that it arcs and hits the enemy on the head. Charge another arrow from the side and try to sync both of the arrows so that at least one of them hits. I do that twice in the gif below -- first when fighting against the red-haired knight, and again when fighting against the burger knight (with the 2nd arrow stunning the knight, which lets the arc arrow do damage)
 
-[gifs here]
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/arl.webm" controls loop="loop" preload></video><br>
 
 You can use arc shots to make campy archers move away from their spot, allowing you to hit them with a normal shot.
 
@@ -36,5 +36,4 @@ Even if you miss one of the arrows, you're still more likely to hit the enemy if
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-expert/arc2.webm" controls loop="loop" preload></video><br>
 
-You can practice it on solo modes or empty servers as well by shooting objects that don't move - trees, specific blocks, etc.
-
+You can also check out this guide to arc shots from 2017: https://forum.thd.vg/threads/2119-guide-to-arcs.26549/
