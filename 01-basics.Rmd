@@ -52,8 +52,6 @@ Some examples of using halfshots below:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/half4.webm" controls loop="loop" preload></video><br>
 
-<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/hf2.webm" controls loop="loop" preload></video><br>
-
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/cre.webm" controls loop="loop" preload></video><br>
 
 There are also certain situations where a halfshot can hit someone when a fullshot wouldn't -- due to smaller velocity of a half hot, they can start falling down sooner than fullshots and do arc shots.
