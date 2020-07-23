@@ -1,7 +1,7 @@
 --- 
 title: "Archer Guide"
 subtitle:
-author: "by Turtlebutt"
+author: "by Turtlebutt and Bunnie"
 date: "`r format(Sys.time(), '%d/%m/%Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -22,6 +22,8 @@ description: "A KAG archer guide for both new and experienced players."
 This guide will help people who are trying to get better at archer. We are going to cover everything -- improving your skill to various levels, every archer trick/move you can do in this game and much more. Archer combat isn't as complex as knight combat and some players consider archer combat much easier to learn. If you want to get better this guide will certainly help you.
 
 > For a tutorial on playing as knight see: [Knight Guide](https://deynarde.github.io/kag-knight-guide/).
+
+> For a tutorial on playing as builder see: [Builder Guide](https://deynarde.github.io/kag-builder-guide/).
 
 > You can contact us on [KAG Discord](https://discord.gg/kag) (`bunnie#8671`, `unit#8073` (Turtlebutt)).
 
