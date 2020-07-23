@@ -88,6 +88,12 @@ After doing that, you can shoot enemies in their back. In the gifs below, first 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/ebacslide.webm" controls loop="loop" preload></video><br>
 
+### Cancelling your current shot
+
+As mentioned earlier, you can't use your grappling hook when charging an arrow. Clicking the right mouse button will cancel the current shot you're charging (holding will prevent you from charging at all). This lets you time your shots better.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/jod.webm" controls loop="loop" preload></video><br>
+
 ### Close archer combat - fullshot + halfshot on another archer
 
 In close archer combat, whenever you're fighting against another archer, you can try to stun them with a full shot -- they can't move or shoot during the stun period and that allows you to get the half shot in just as they get unstunned. Very efficient for taking out archers who decide to come close to you.
