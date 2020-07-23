@@ -8,6 +8,8 @@
 
 There are 3 main types of zoom in kag -- max zoom in, middle zoom and max zoom out. The first one is almost always bad and you shouldn't use it. Most archers decide to mostly use middle zoom in mid and close-range and then swap to max zoom out in long-range fights. However, to some aiming may be confusing if they swap the zooms often, so some stick to max zoom out, even on mid-range and close-range fights. Both have their pros and cons and it's up to each individual to decide what they prefer. It's also dependent on what camera they decide to use.
 
+You can also use the zoom levels in-between middle and max zoom out -- to use one of them, hold CTRL while scrolling in or out.
+
 There are 2 kinds of cameras in KAG - unfixed camera and fixed (this can be changed in settings). With fixed camera, your character is always in the center of the screen; with unfixed camera, the camera follows your mouse on middle zoom. Unfixed camera allows you to theoretically shoot on long range distances with middle zoom, but sometimes you won't notice what happens closer to your character and you may have more troubles with aiming using unfixed camera. Again, it's up to you to choose which one you feel more comfortable with; don't be afraid to experiment.
 
 ## Some more tricks
