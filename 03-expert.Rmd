@@ -22,11 +22,35 @@ Some more examples of arc shots:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-expert/arc3.webm" controls loop="loop" preload></video><br>
 
+Fullshot arc:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/darc.webm" controls loop="loop" preload></video><br>
+
+Bomb arrow fullshot arc:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/sami.webm" controls loop="loop" preload></video><br>
+
+Halfshot arc spam -- as you can see, it's hard for an archer to move around when there's lots of arrows flying around, so eventually they get hit by one of them:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/arcspam.webm" controls loop="loop" preload></video><br>
+
+A single halfshot arc at game start:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/parc2.webm" controls loop="loop" preload></video><br>
+
+Two halfshot arcs, with each one hitting a different player:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/hardc.webm" controls loop="loop" preload></video><br>
+
 ### Arc shot combos
 
-You can make a combo of arc shot + normal shot: shoot an arrow up, so that it arcs and hits the enemy on the head. Charge another arrow from the side and try to sync both of the arrows so that at least one of them hits. I do that twice in the gif below -- first when fighting against the red-haired knight, and again when fighting against the burger knight (with the 2nd arrow stunning the knight, which lets the arc arrow do damage)
+You can make a combo of arc shot + normal shot: shoot an arrow up, so that it arcs and hits the enemy on the head. Charge another arrow from the side and try to sync both of the arrows so that even if the enemy tries shielding, at least one of them hits. I do that twice in the gif below -- first when fighting against the red-haired knight, and again when fighting against the burger knight (with the 2nd arrow stunning the knight, which lets the arc arrow do damage)
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/arl.webm" controls loop="loop" preload></video><br>
+
+Another example with bomb arrows:
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/tehv.webm" controls loop="loop" preload></video><br>
 
 You can use arc shots to make campy archers move away from their spot, allowing you to hit them with a normal shot.
 
