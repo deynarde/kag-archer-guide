@@ -52,12 +52,10 @@ Another example with bomb arrows:
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/tehv.webm" controls loop="loop" preload></video><br>
 
-You can use arc shots to make campy archers move away from their spot, allowing you to hit them with a normal shot.
-
-[gif here]
-
 Even if you miss one of the arrows, you're still more likely to hit the enemy if they move. 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/03-expert/arc2.webm" controls loop="loop" preload></video><br>
+
+You can also use arc shots to make campy archers move away from their spot, allowing you to hit them with a normal shot. 
 
 You can also check out this guide to arc shots from 2017: https://forum.thd.vg/threads/2119-guide-to-arcs.26549/
