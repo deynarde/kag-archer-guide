@@ -104,10 +104,6 @@ In close archer combat, whenever you're fighting against another archer, you can
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/02-good/zasnoc.webm" controls loop="loop" preload></video><br>
 
-In the gif below, we use the arrow in the wall to get closer to the archer so that the fullshot would stun them, then finish them with a halfshot.
-
-<video style="display:block; max-width:100%; height:auto;" src="webm/02-good/t3d.webm" controls loop="loop" preload></video><br>
-
 ### Using quartershots
 
 Spamming quartershots in close combat is not very effective since they have small velocity and do only half a heart of damage. As mentioned in the previous chapter, best way to use them is by having significant height advantage over the enemy and then spamming quartershots, they will do 1 damage if they have time to gain enough velocity. In the gif below, we deal 3 hearts of damage to the enemy with just quartershot spam and then finish them with a fullshot.
