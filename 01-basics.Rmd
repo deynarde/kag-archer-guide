@@ -128,7 +128,7 @@ You should almost always aim in the direction you're moving to -- all classes in
 
 ### Climbing trees
 
-You're able to climb trees as an archer (knights or builders can't do that). To do that, you must hold W when in front of a tree. If you stop holding W, you will stop climbing the tree and fall off.
+You're able to climb trees as an archer (knights or builders can't do that). To do that, you must hold W when in front of a tree. When you're on a tree, you don't have to hold any keys, but pressing S will make you fall off the tree until you start holding W again.
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dtree.webm" controls loop="loop" preload></video><br>
 
