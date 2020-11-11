@@ -132,6 +132,12 @@ You're able to climb trees as an archer (knights or builders can't do that). To 
 
 <video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/dtree.webm" controls loop="loop" preload></video><br>
 
+### Fletching arrows from wood
+
+Aiming at a log, a stack of wood or at a tree and clicking right mouse button will fletch a single arrow. Hold the button to fletch more arrows. Keep in mind that you have to aim exactly at the wooden thing you're fletching arrows from, or else you will just release your grappling hook.
+
+<video style="display:block; max-width:100%; height:auto;" src="webm/01-basics/arrowfletch.webm" controls loop="loop" preload></video><br>
+
 ### Grappling, mobility
 
 Mobility is one of the most important aspects of playing against other players -- using the grappling hook is a must.
